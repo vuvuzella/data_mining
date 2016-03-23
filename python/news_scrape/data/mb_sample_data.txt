@@ -1,0 +1,2453 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml">
+ <head profile="http://gmpg.org/xfn/11">
+  <meta content="Manila Bulletin, the nation's leading newspaper, brings you the latest news and current events in the Philippines and abroad daily, since 1900." name="description">
+   <meta content="Manila Bulletin headlines, news Philippines, current events, latest news, breaking news, weather forecast, showbiz, world news, sports, tech and gadgets" name="keywords">
+    <meta content="The Manila Bulletin" name="author"/>
+    <meta content="article" property="og:type"/>
+    <meta content="Aquino: Being president is not a ‘walk in the park’" property="og:title"/>
+    <meta content="After nearly six years in office, President Aquino conceded that being the country’s highest government leader has not been a walk in a park.
+
+Addressing a Liberal Party campaign rally in Batangas City on Wednesday, March 16, 2016, the President complained about the insults and attacks hurled against him from some newspaper columnists and detractors over the years.
+
+" property="og:description"/>
+    <meta content="http://www.mb.com.ph/aquino-being-president-is-not-a-walk-in-the-park/" property="og:url"/>
+    <meta content="mb.com.ph" property="og:site_name"/>
+    <meta content="http://www.mb.com.ph/wp-content/uploads/2016/03/PMA_3_Baguio_Malacanang-Photo_130316.jpg" property="og:image"/>
+    <meta content="en_US" property="og:locale"/>
+    <meta content="manilabulletin" property="article:author"/>
+    <meta content="http://www.facebook.com/manilabullletin" property="article:publisher"/>
+    <meta content="summary" name="twitter:card"/>
+    <meta content="@manila_bulletin" name="twitter:site"/>
+    <meta content="http://www.mb.com.ph/wp-content/uploads/2016/03/PMA_3_Baguio_Malacanang-Photo_130316.jpg" name="twitter:image"/>
+    <meta content="mb.com.ph" name="twitter:domain"/>
+    <meta content="@manila_bulletin" name="twitter:creator"/>
+    <meta content="After nearly six years in office, President Aquino conceded that being the country’s highest government leader has not been a walk in a park.
+
+Addressing a Liberal Party campaign rally in Batangas City on Wednesday, March 16, 2016, the President complained about the insults and attacks hurled against him from some newspaper columnists and detractors over the years.
+
+" name="twitter:description"/>
+    <meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+    <meta content="iCI9wd2jDgQ5SYDC200TxyROXIE" name="alexaVerifyID"/>
+    <!-- Start Alexa Certify Javascript -->
+    <script type="text/javascript">
+     // _atrk_opts = { atrk_acct:"H81gh1aMQV00Eu", domain:"mb.com.ph",dynamic: true};
+	// (function() {
+	// 	var as = document.createElement('script');
+	// 	as.type = 'text/javascript'; as.async = true;
+	// 	as.src = "https://d31qbv1cthcecs.cloudfront.net/atrk.js";
+	// 	var s = document.getElementsByTagName('script')[0];s.parentNode.insertBefore(as, s);
+	// })();
+    </script>
+    <!-- <noscript><img src="https://d5nxst8fruw4z.cloudfront.net/atrk.gif?account=H81gh1aMQV00Eu" style="display:none" height="1" width="1" alt="" /></noscript> End Alexa Certify Javascript -->
+    <!-- Start Alexa Certify Javascript -->
+    <script type="text/javascript">
+     _atrk_opts = { atrk_acct:"H81gh1aMQV00Eu", domain:"mb.com.ph",dynamic: true};
+	(function() {
+		var as = document.createElement('script');
+		as.type = 'text/javascript'; as.async = true;
+		as.src = "https://d31qbv1cthcecs.cloudfront.net/atrk.js";
+		var s = document.getElementsByTagName('script')[0];s.parentNode.insertBefore(as, s);
+	})();
+    </script>
+    <noscript>
+     <img alt="" height="1" src="https://d5nxst8fruw4z.cloudfront.net/atrk.gif?account=H81gh1aMQV00Eu" style="display:none" width="1"/>
+    </noscript>
+    <!-- End Alexa Certify Javascript -->
+    <script>
+     (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+ (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+ m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+ })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+ ga('create', 'UA-43763917-1', 'mb.com.ph');
+ ga('send', 'pageview');
+    </script>
+    <!--<script type="text/javascript" src="http://cdn.innity.net/admanager.js"></script>-->
+    <!-- Begin comScore Tag -->
+    <script>
+     var _comscore = _comscore || [];
+  _comscore.push({ c1: "2", c2: "20517747" });
+  (function() {
+    var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
+    s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+    el.parentNode.insertBefore(s, el);
+  })();
+    </script>
+    <noscript>
+     <img src="http://b.scorecardresearch.com/p?c1=2&amp;c2=20517747&amp;cv=2.0&amp;cj=1"/>
+    </noscript>
+    <!-- End comScore Tag -->
+    <!--Teads-->
+    <script type="text/javascript">
+     window._ttf = window._ttf || [];
+_ttf.push({
+       pid          : 28362 // INREAD DESKTOP - MB
+       ,lang        : "en"
+       ,slot        : '#content .post &gt; p'
+       ,format      : "inread"
+       ,mobile      : false
+       ,minSlot     : 4
+});
+
+(function (d) {
+        var js, s = d.getElementsByTagName('script')[0];
+        js = d.createElement('script');
+        js.async = true;
+        js.src = '//cdn.teads.tv/media/format.js';
+        s.parentNode.insertBefore(js, s);
+})(window.document);
+    </script>
+    <!--Teads-->
+    <!-- Begin Kiosked -->
+    <script async="async" src="//scripts.kiosked.com/loader/kiosked-loader.js?pub=11264&amp;site=11347" type="text/javascript">
+    </script>
+    <script async="async" src="//anonymousdemographics.com/u?pub=11264&amp;site=11347&amp;ts=1436516056&amp;_response_content_type=js" type="text/javascript">
+    </script>
+    <!-- End Kiosked -->
+    <!-- End Adspruce -->
+    <script async src="http://sdk.adspruce.com/1/adspruce.js?pid=2275&amp;sid=1" type="text/javascript">
+    </script>
+    <!-- End Adspruce -->
+    <title>
+     mb.com.ph | Philippine News | Archive | National
+    </title>
+    <link href="http://www.mb.com.ph/wp-content/themes/city-desk/style.css" media="all" rel="stylesheet" type="text/css"/>
+    <link href="http://www.mb.com.ph/feed/" rel="alternate" title="RSS 2.0" type="application/rss+xml"/>
+    <link href="http://www.mb.com.ph/xmlrpc.php" rel="pingback"/>
+    <link href="http://www.mb.com.ph/feed/" rel="alternate" title="mb.com.ph | Philippine News » Feed" type="application/rss+xml"/>
+    <link href="http://www.mb.com.ph/comments/feed/" rel="alternate" title="mb.com.ph | Philippine News » Comments Feed" type="application/rss+xml"/>
+    <link href="http://www.mb.com.ph/category/news/national/feed/" rel="alternate" title="mb.com.ph | Philippine News » National Category Feed" type="application/rss+xml"/>
+    <link href="http://www.mb.com.ph/wp-content/plugins/recent-posts-widget-extended/rpwe.css?ver=3.6" id="rpwe-style-css" media="all" rel="stylesheet" type="text/css"/>
+    <link href="http://www.mb.com.ph/wp-content/plugins/widgetize-pages-light/include/otw_components/otw_grid_manager/css/otw-grid.css?ver=1.1" id="otw_grid_manager-css" media="all" rel="stylesheet" type="text/css"/>
+    <link href="http://www.mb.com.ph/wp-content/plugins/widgetize-pages-light/include/otw_components/otw_shortcode/css/general_foundicons.css?ver=1.1" id="general_foundicons-css" media="all" rel="stylesheet" type="text/css"/>
+    <link href="http://www.mb.com.ph/wp-content/plugins/widgetize-pages-light/include/otw_components/otw_shortcode/css/social_foundicons.css?ver=1.1" id="social_foundicons-css" media="all" rel="stylesheet" type="text/css"/>
+    <link href="http://www.mb.com.ph/wp-content/plugins/widgetize-pages-light/include/otw_components/otw_shortcode/css/otw_shortcode.css?ver=1.1" id="otw_shortocde-css" media="all" rel="stylesheet" type="text/css"/>
+    <link href="http://www.mb.com.ph/wp-content/plugins/wordpress-popular-posts/style/wpp.css?ver=2.3.6" id="wordpress-popular-posts-css" media="all" rel="stylesheet" type="text/css"/>
+    <link href="http://www.mb.com.ph/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=3.5.3" id="contact-form-7-css" media="all" rel="stylesheet" type="text/css"/>
+    <link href="http://www.mb.com.ph/wp-content/plugins/gabfire-widget-pack/style.css?ver=3.6" id="smartwidgetscss-css" media="all" rel="stylesheet" type="text/css"/>
+    <link href="http://www.mb.com.ph/wp-content/themes/city-desk/inc/js/fancybox/jquery.fancybox-1.3.4.css?ver=3.6" id="fancyboxcss-css" media="all" rel="stylesheet" type="text/css"/>
+    <script src="http://ajax.googleapis.com/ajax/libs/jquery/1/jquery.min.js?ver=3.6" type="text/javascript">
+    </script>
+    <script src="http://www.mb.com.ph/wp-content/plugins/jquery-image-lazy-loading/js/jquery.lazyload.min.js?ver=1.7.1" type="text/javascript">
+    </script>
+    <script type="text/javascript">
+     /* &lt;![CDATA[ */
+var samAjax = {"ajaxurl":"http:\/\/www.mb.com.ph\/wp-content\/plugins\/simple-ads-manager\/sam-ajax.php","loadurl":"http:\/\/www.mb.com.ph\/wp-content\/plugins\/simple-ads-manager\/sam-ajax-loader.php","load":"","level":"3","clauses":"YTo0OntzOjI6IldDIjtzOjQ0MjoiKElGKHNhLmFkX3VzZXJzID0gMCwgVFJVRSwgKHNhLmFkX3VzZXJzX3VucmVnID0gMSkpKSBBTkQgKChzYS52aWV3X3R5cGUgPSAxKSBPUiAoc2Eudmlld190eXBlID0gMCBBTkQgKHNhLnZpZXdfcGFnZXMrMCAmIDY0MCkpKSBBTkQgSUYoc2Eudmlld190eXBlIDwgMiBBTkQgc2EuYWRfY2F0cyBBTkQgSUYoc2Eudmlld190eXBlID0gMCwgc2Eudmlld19wYWdlcyswICYgNjQwLCBUUlVFKSwgRklORF9JTl9TRVQoIm5hdGlvbmFsIiwgc2Eudmlld19jYXRzKSwgVFJVRSkgIEFORCAoc2EuYWRfYXV0aG9ycyA9IDApICAgICBBTkQgSUYoc2Eudmlld190eXBlIDwgMiBBTkQgc2EueF9jYXRzIEFORCBJRihzYS52aWV3X3R5cGUgPSAwLCBzYS52aWV3X3BhZ2VzKzAgJiA2NDAsIFRSVUUpLCBOT1QgRklORF9JTl9TRVQoIm5hdGlvbmFsIiwgc2EueF92aWV3X2NhdHMpLCBUUlVFKSAgICI7czozOiJXQ1QiO3M6Mzc0OiIgQU5EIElGKHNhLmFkX3NjaGVkdWxlLCBDVVJEQVRFKCkgQkVUV0VFTiBzYS5hZF9zdGFydF9kYXRlIEFORCBzYS5hZF9lbmRfZGF0ZSwgVFJVRSkgQU5EIElGKHNhLmxpbWl0X2hpdHMsIHNhLmhpdHNfbGltaXQgPiAoU0VMRUNUIElGTlVMTChDT1VOVCgqKSwgMCkgRlJPTSB3cF9tYW5pbF9zYW1fc3RhdHMgc3MgV0hFUkUgc3MuaWQgPSBzYS5pZCBBTkQgc3MuZXZlbnRfdHlwZSA9IDApLCBUUlVFKSBBTkQgSUYoc2EubGltaXRfY2xpY2tzLCBzYS5jbGlja3NfbGltaXQgPiAoU0VMRUNUIElGTlVMTChDT1VOVCgqKSwgMCkgRlJPTSB3cF9tYW5pbF9zYW1fc3RhdHMgc3MgV0hFUkUgc3MuaWQgPSBzYS5pZCBBTkQgc3MuZXZlbnRfdHlwZSA9IDEpLCBUUlVFKSI7czozOiJXQ1ciO3M6ODA6IiBBTkQgSUYoc2EuYWRfd2VpZ2h0ID4gMCwgKHNhLmFkX3dlaWdodF9oaXRzKjEwLyhzYS5hZF93ZWlnaHQqMTAwMCkpIDwgMSwgRkFMU0UpIjtzOjQ6IldDMlciO3M6MjI6IkFORCAoc2EuYWRfd2VpZ2h0ID4gMCkiO30="};
+/* ]]&gt; */
+    </script>
+    <script src="http://www.mb.com.ph/wp-content/plugins/simple-ads-manager/js/sam-layout.min.js?ver=2.2.80" type="text/javascript">
+    </script>
+    <script src="http://www.mb.com.ph/wp-content/plugins/gabfire-widget-pack/js/jquery.tools.min.js?ver=3.6" type="text/javascript">
+    </script>
+    <script src="http://www.mb.com.ph/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.2.1" type="text/javascript">
+    </script>
+    <script src="http://www.mb.com.ph/wp-content/themes/city-desk/inc/js/jquery.cycle.all.min.js?ver=3.6" type="text/javascript">
+    </script>
+    <script src="http://www.mb.com.ph/wp-content/themes/city-desk/inc/js/slides.min.jquery.js?ver=3.6" type="text/javascript">
+    </script>
+    <script src="http://www.mb.com.ph/wp-content/themes/city-desk/inc/js/jCarouselLite.js?ver=3.6" type="text/javascript">
+    </script>
+    <script src="http://www.mb.com.ph/wp-content/themes/city-desk/inc/js/flowplayer/flowplayer-3.2.6.min.js?ver=3.6" type="text/javascript">
+    </script>
+    <script src="http://www.mb.com.ph/wp-content/themes/city-desk/inc/js/superfish-1.4.8.js?ver=3.6" type="text/javascript">
+    </script>
+    <script src="http://www.mb.com.ph/wp-content/themes/city-desk/inc/js/fancybox/jquery.fancybox-1.3.4.pack.js?ver=3.6" type="text/javascript">
+    </script>
+    <script src="http://www.mb.com.ph/wp-content/themes/city-desk/inc/js/fancybox/jquery.mousewheel-3.0.4.pack.js?ver=3.6" type="text/javascript">
+    </script>
+    <link href="http://www.mb.com.ph/xmlrpc.php?rsd" rel="EditURI" title="RSD" type="application/rsd+xml"/>
+    <link href="http://www.mb.com.ph/wp-includes/wlwmanifest.xml" rel="wlwmanifest" type="application/wlwmanifest+xml"/>
+    <meta content="WordPress 3.6" name="generator"/>
+    <style type="text/css">
+     img.lazy { display: none; }
+    </style>
+    <link href="http://www.mb.com.ph/wp-content/plugins/newsletter/subscription/styles/gray.css" rel="stylesheet" type="text/css">
+     <link href="http://www.mb.com.ph/wp-content/plugins/newsletter/subscription/styles/gray.css" rel="stylesheet" type="text/css">
+      <link href="/wp-content/plugins/widgetkit/cache/widgetkit-0dedb691.css" rel="stylesheet"/>
+      <script src="/wp-content/plugins/widgetkit/cache/widgetkit-cc078467.js">
+      </script>
+      <!--Plugin WP Missed Schedule 2013.1024.8888 Active - Tag 6d807758f47abdb4ae626b9fa261d2f5-->
+      <link href="http://www.mb.com.ph/wp-content/themes/city-desk/styles/default.css" rel="stylesheet" type="text/css"/>
+      <script type="text/javascript">
+       &lt;!--
+	(function($) {
+		$(document).ready(function() { 
+			
+			$('a[href=#top]').click(function(){	$('html, body').animate({scrollTop:0}, 'slow');	return false; });
+			
+			$("ul.tabs").tabs("div.panes &gt; div");
+			$("ul.sc_tabs").tabs("div.sc_tabs-content &gt; div");
+			
+			$("a[rel=gab_gallery]").fancybox({
+			'transitionIn'		: 'none',
+			'transitionOut'		: 'none',
+			'titlePosition' 	: 'over',
+			'titleFormat'       : function(title, currentArray, currentIndex, currentOpts) {
+				return '&lt;span id="fancybox-title-over"&gt;' + title /* + ' ('+(currentIndex + 1) + ' / ' + currentArray.length + ')' */ +'&lt;/span&gt;';
+			}
+			});			
+			
+			$(".show").fancybox({  
+				'titleShow'     : 'false',  
+				'transitionIn'      : 'fade',  
+				'transitionOut'     : 'fade'  
+			});
+			
+			$(".iframe").fancybox({	
+				'width'	: '75%',
+				'height' : '75%',
+				'autoScale'     	: false,
+				'transitionIn'		: 'none',
+				'transitionOut'		: 'none',
+				'type'				: 'iframe'
+			});				
+			
+			
+		});
+	})(jQuery);
+	// --&gt;
+      </script>
+      <link href="http://www.mb.com.ph/wp-content/uploads/2013/07/favicon.ico" rel="shortcut icon"/>
+      <style id="custom-background-css" type="text/css">
+       body.custom-background { background-color: #1a1c1b; }
+      </style>
+      <!--[if IE 7]>
+		<style type="text/css" media="screen">
+			.dropdown_col,.mainnav ul,.subnav ul {display:none !important}
+			.mainnav .sf-with-ul,.subnav .sf-with-ul {background:none;padding-right:9px !important}
+		</style>
+	<![endif]-->
+      <style media="screen" type="text/css">
+       body {font-size: 12px;font-family: arial;font-weight: normal;color: #555555;}h2.posttitle {font-size: 14px;font-family: arial;font-weight: bold;color: #056197;}h2.posttitle a{color: #056197;}.widgettitle {font-size: 15px;font-family: arial;font-weight: bold;color: #222222;}.catname span {font-size: 15px;font-family: arial;font-weight: bold;color: #222222;}
+      </style>
+      <!--<link href="http://www2.mb.com.ph/wp-content/themes/city-desk/inc/js/csb/jquery.mCustomScrollbar.css" rel="stylesheet" type="text/css" />-->
+      <script src="http://www.mb.com.ph/wp-content/themes/city-desk/inc/js/csb/jquery.mCustomScrollbar.concat.min.js">
+      </script>
+      <link href="http://www.mb.com.ph/wp-content/themes/city-desk/inc/js/jquery-ui.css" rel="stylesheet">
+       <script src="http://www.mb.com.ph/wp-content/themes/city-desk/inc/js/jquery-ui.js">
+       </script>
+       <script>
+        $(function() {
+$( "#tabs" ).tabs().addClass( "ui-tabs-vertical ui-helper-clearfix" );
+$( "#tabs li" ).removeClass( "ui-corner-top" ).addClass( "ui-corner-left" );
+});
+       </script>
+       <style>
+        #absolute { position: absolute;  width: 100%; }
+
+.wk-slideshow{width:100% !important; background:#fff;}
+.wk-slideshow .slides&gt;li{width:100% !important;}
+.ui-tabs-vertical { width: 100%; background: #F5F5F5;
+background: -moz-linear-gradient(left, #FDFDFD 97%, #F0F0F0 100%);
+background: -webkit-linear-gradient(left, #FDFDFD 97%, #F0F0F0 100%);
+background: -o-linear-gradient(left, #FDFDFD 97%, #F0F0F0 100%);
+background: linear-gradient(to right, #FDFDFD 97%, #F0F0F0 100%);}
+.ui-tabs-vertical .ui-tabs-nav { padding: 0; float: left; width: 101px; position: absolute; z-index: 999999; }
+.ui-tabs-vertical .ui-tabs-nav li { clear: left; width: 100%; border-bottom-width: 1px !important; border-right-width: 0 !important; margin: 0; }
+.ui-tabs-vertical .ui-tabs-nav li a { display:block; font-size:12px; font-weight:normal;}
+.ui-tabs-vertical .ui-tabs-nav li.ui-tabs-active { padding-bottom: 0; padding-right: 0px; border-right: none; background:#fff; border-bottom:1px solid #ddd; border-top:1px solid #ddd;}
+.ui-tabs-vertical .ui-tabs-nav li.ui-tabs-active:first-child{border-top-left-radius:4px; border-top:0px;}
+.ui-tabs-vertical .ui-tabs-panel {padding:0px; float: left; width: 100%; max-width:539px; margin-left: 100px; border-left:1px solid #ddd;}
+       </style>
+       <script>
+        (function($){
+        $(window).load(function(){
+            $("#breaking_news .rpwe-block").mCustomScrollbar();
+        });
+    })(jQuery);
+       </script>
+       <script>
+        $(document).ready(function() {
+ 
+    var div = $('#stickNav');
+	var holderDiv = $('.wrapper_banner_nav');
+    var div2 = $('#stickNav_2');
+	var stickyDiv = $('.wrapper_banner_nav_2');
+	var subMenuBottom = $('.wrapper_banner_nav_2 #submenu');
+    var innerNav = $('.wrapper_banner_nav_2 #mainmenu');
+	var start = $(div).offset().top + 50;
+	
+ 
+    $.event.add(window, "scroll", function() {
+        var p = $(window).scrollTop();
+		$(stickyDiv).css('position',((p)&gt;start) ? 'fixed' : 'static');
+        $(stickyDiv).css('height',((p)&gt;start) ? '34' : '0');
+        $(stickyDiv).css('top',((p)&gt;start) ? '0' : '');
+        $(stickyDiv).css('z-index',((p)&gt;start) ? '99' : '');
+		$(stickyDiv).css('width',((p)&gt;start) ? '100%' : '980px');
+		$(stickyDiv).css('border-bottom',((p)&gt;start) ? '7px solid #121130' : 'none');
+		$(stickyDiv).css('margin',((p)&gt;start) ? '0' : '0 auto');
+		$(stickyDiv).css('opacity',((p)&gt;start) ? '1' : '0');
+		$(stickyDiv).css('transition',((p)&gt;start) ? 'opacity .5s ease-in-out' : '');
+        $(stickyDiv).css('-moz-transition',((p)&gt;start) ? 'opacity .5s ease-in-out' : '');
+        $(stickyDiv).css('-webkit-transition',((p)&gt;start) ? 'opacity .5s ease-in-out' : '');
+		$(subMenuBottom).css('background',((p)&gt;start) ? 'transparent' : '');
+		/* $(stickyDiv).css('display',((p)&gt;start) ? 'block' : 'none'); */
+		//$(div2).css('width',((p)&gt;start) ? '100%' : '960px');
+		$(div2).css('opacity',((p)&gt;start) ? '1' : '0');
+		$(div2).css('display',((p)&gt;start) ? 'block' : 'none');
+		$(innerNav).css('border',((p)&gt;start) ? 'none' : '');
+		
+    });
+	
+	$("li#menu-item-796 a").addClass("adspruce-streamlink");
+	
+});
+       </script>
+       <meta content="zyuhGvWCV3OtzyAySfBXhsunn5pwIjhGVbwAc0QLvuU" name="google-site-verification"/>
+       <meta content="all" name="robots"/>
+       <div id="header" style="display:none">
+        <h1>
+         Manila Bulletin | The Philippine's Latest News and Current Events
+        </h1>
+        <h2>
+         Manila Bulletin Philippines
+        </h2>
+        <h2>
+         Breaking News from the Nation's leading newspaper
+        </h2>
+        <h3>
+         Tempo
+        </h3>
+        <h3>
+         Online Newspaper
+        </h3>
+        <h3>
+         Showbiz and Celebrity News
+        </h3>
+        <h4>
+         Sports News
+        </h4>
+        <h5>
+         World News
+        </h5>
+        <h6>
+         News Asia
+        </h6>
+       </div>
+       <meta content="dBIOvHQ4iPCaQCryQ6p7cvrmPkA0moiDxjTpirOiI5M" name="google-site-verification"/>
+      </link>
+     </link>
+    </link>
+   </meta>
+  </meta>
+ </head>
+ <body class="archive category category-national category-9 custom-background">
+  <!-- <div id="absolute">
+	</div> -->
+  <div class="custom_background">
+   <div class="shadow">
+    <!--<div class="sun_holder">
+<div class="wrapper wrapper_top" style="position:relative;">
+	
+</div>-->
+    <div class="wrapper_banner wrapper_banner_nav">
+     <div class="wrapper wrapper_sun" style="position:relative;">
+      <!-- 	<div class="expandable">
+	    <img src="/wp-content/themes/Tapestry2013/images/banners/expand-bg.jpg" style="width: 940px; height: 90px; display: inline;" alt="Expandable Web Banner">
+	    <div class="content">
+	    	<img src="">
+	    </div>
+	</div> -->
+      <div id="header">
+       <!------------------------------------------------------------------>
+       <!------------------------------------------------------------------>
+       <!------------------------------------------------------------------>
+       <div style="max-width:160px;width:160px;overflow:hidden;border:0px solid #ddd;position:absolute;top:160px; left:-161px;">
+        <div class="sam-container sam-place" data-sam="1" id="c2093_212_39">
+         <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js">
+         </script>
+         <!-- MB wide sky scrapper - leftside 160x600 -->
+         <ins class="adsbygoogle" data-ad-client="ca-pub-1879001956026775" data-ad-slot="3833056591" style="display:inline-block;width:160px;height:600px">
+         </ins>
+         <script>
+          (adsbygoogle = window.adsbygoogle || []).push({});
+         </script>
+        </div>
+       </div>
+       <!-- .col-3col -->
+       <div style="max-width:160px;width:160px;overflow:hidden;border:0px solid #ddd;position:absolute;top:160px; right:-161px;">
+        <div class="sam-container sam-place" data-sam="1" id="c6487_213_40">
+         <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js">
+         </script>
+         <!-- MB wide sky scrapper - rightside 160x600 -->
+         <ins class="adsbygoogle" data-ad-client="ca-pub-1879001956026775" data-ad-slot="8263256198" style="display:inline-block;width:160px;height:600px">
+         </ins>
+         <script>
+          (adsbygoogle = window.adsbygoogle || []).push({});
+         </script>
+        </div>
+       </div>
+       <!-- .col-3col -->
+       <!------------------------------------------------------------------>
+       <!------------------------------------------------------------------>
+       <!------------------------------------------------------------------>
+       <div class="left-2col">
+        <div class="logo" style="padding:15px 0px 15px 0px;">
+         <a href="http://www.mb.com.ph/" title="">
+          <img alt="mb.com.ph | Philippine News" src="http://www.mb.com.ph/wp-content/uploads/2013/07/bold_logo.png" title="mb.com.ph | Philippine News"/>
+         </a>
+        </div>
+        <!-- .logo -->
+       </div>
+       <!-- .left-2col -->
+       <div class="right-2col">
+        <div class="sam-container sam-place" data-sam="1" id="c2951_266_32">
+         <script type="text/javascript">
+          &lt;!--//&lt;![CDATA[
+   var ox_u = 'http://asianmedia.com/GAAN/www/delivery/al.php?zoneid=304&amp;target=_blank&amp;layerstyle=simple&amp;align=center&amp;valign=middle&amp;padding=5&amp;padding=5&amp;shifth=0&amp;shiftv=0&amp;closebutton=t&amp;backcolor=FFFFFF&amp;noborder=t';
+   if (document.context) ox_u += '&amp;context=' + escape(document.context);
+   document.write("&lt;scr"+"ipt type='text/javascript' src='" + ox_u + "'&gt;&lt;/scr"+"ipt&gt;");
+//]]&gt;--&gt;
+         </script>
+        </div>
+       </div>
+       <!-- .right-2col -->
+       <div id="masthead">
+        <ul class="mastheadnav dropdown" style="float:left;">
+         <li class="first date_on_top">
+          <script type="text/javascript">
+           &lt;!--
+					var mydate=new Date()
+					var year=mydate.getYear()
+					if (year &lt; 1000)
+					year+=1900
+					var day=mydate.getDay()
+					var month=mydate.getMonth()
+					var daym=mydate.getDate()
+					if (daym&lt;10)
+					daym="0"+daym
+					var dayarray=new Array("Sunday","Monday","Tuesday","Wednesday","Thursday","Friday","Saturday")
+					var montharray=new Array("January","February","March","April","May","June","July","August","September","October","November","December")
+					document.write(""+dayarray[day]+", "+montharray[month]+" "+daym+", "+year+"")
+					// --&gt;
+          </script>
+         </li>
+         <!--<li class="first"><a href="http://www.mb.com.ph/" title="">Home</a></li>-->
+        </ul>
+        <div class="search" style="float:left; clear:both;">
+         <!--<form action="" class="gab_search_style2" style="background:url(/framework/images/bgr_search_box.png) no-repeat;">-->
+         <form action="http://www.mb.com.ph/" class="gab_search_style2">
+          <fieldset>
+           <p class="magnifier_search">
+            <input class="submit_style2" src="http://www.mb.com.ph/wp-content/themes/city-desk/framework/images/bgr_search_box-submit.png" type="image" value=""/>
+           </p>
+           <p class="search_input">
+            <input class="text" name="s" onblur="if (this.value == '') {this.value = 'Search in site...';}" onfocus="if (this.value == 'Search in site...') {this.value = '';}" type="text" value="Search in site..."/>
+           </p>
+          </fieldset>
+         </form>
+        </div>
+       </div>
+       <!-- /masthead -->
+      </div>
+      <!-- #header -->
+     </div>
+    </div>
+    <!--wrapper_banner_nav holder-->
+    <div style="background:#222579;">
+     <div id="stickNav">
+      <div id="mainmenu">
+       <ul class="mainnav dropdown">
+        <li class="first AAA">
+         <a href="http://www.mb.com.ph/ " title="">
+          Home
+         </a>
+        </li>
+        <li class="menu-item menu-item-type-post_type menu-item-object-page current-menu-ancestor current-menu-parent current_page_parent current_page_ancestor menu-item-125" id="menu-item-125">
+         <a href="http://www.mb.com.ph/news/">
+          News
+         </a>
+         <ul class="sub-menu">
+          <li class="menu-item menu-item-type-taxonomy menu-item-object-category current-menu-item menu-item-136" id="menu-item-136">
+           <a href="http://www.mb.com.ph/category/news/national/">
+            National
+           </a>
+          </li>
+          <li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-135" id="menu-item-135">
+           <a href="http://www.mb.com.ph/category/news/metro/">
+            Metro
+           </a>
+          </li>
+          <li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-138" id="menu-item-138">
+           <a href="http://www.mb.com.ph/category/news/provincial/">
+            Provincial
+           </a>
+          </li>
+          <li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-140" id="menu-item-140">
+           <a href="http://www.mb.com.ph/category/news/world/">
+            World
+           </a>
+          </li>
+          <li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-134" id="menu-item-134">
+           <a href="http://www.mb.com.ph/category/news/environment-and-nature/">
+            Environment &amp; Nature
+           </a>
+          </li>
+          <li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-139" id="menu-item-139">
+           <a href="http://www.mb.com.ph/category/news/scu/">
+            SCU
+           </a>
+          </li>
+          <li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2491" id="menu-item-2491">
+           <a href="http://www.mb.com.ph/category/news/opinions-and-editorials/">
+            Opinions and Editorials
+           </a>
+          </li>
+          <li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-36371" id="menu-item-36371">
+           <a href="http://www.mb.com.ph/category/news/op-ed-columnists/">
+            Op Ed Columnists
+           </a>
+          </li>
+          <li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-36372" id="menu-item-36372">
+           <a href="http://www.mb.com.ph/category/news/scu-columnists/">
+            SCU Columnists
+           </a>
+          </li>
+          <li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-56629" id="menu-item-56629">
+           <a href="http://www.mb.com.ph/category/news/faith/">
+            Faith
+           </a>
+          </li>
+          <li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-141" id="menu-item-141">
+           <a href="http://www.mb.com.ph/category/news/off-beats/">
+            Off Beats
+           </a>
+          </li>
+         </ul>
+        </li>
+        <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-122" id="menu-item-122">
+         <a href="http://www.mb.com.ph/business/">
+          Business
+         </a>
+         <ul class="sub-menu">
+          <li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-108" id="menu-item-108">
+           <a href="http://www.mb.com.ph/category/business/business-news/">
+            Business News
+           </a>
+          </li>
+          <li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-110" id="menu-item-110">
+           <a href="http://www.mb.com.ph/category/business/investment/">
+            Investment
+           </a>
+          </li>
+          <li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-105" id="menu-item-105">
+           <a href="http://www.mb.com.ph/category/business/banking-and-finance/">
+            Banking &amp; Finance
+           </a>
+          </li>
+          <li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-112" id="menu-item-112">
+           <a href="http://www.mb.com.ph/category/business/stock-market/">
+            Stock Market
+           </a>
+          </li>
+          <li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-111" id="menu-item-111">
+           <a href="http://www.mb.com.ph/category/business/shipping/">
+            Shipping
+           </a>
+          </li>
+          <li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-106" id="menu-item-106">
+           <a href="http://www.mb.com.ph/category/business/business-agenda/">
+            Business Agenda
+           </a>
+          </li>
+          <li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-109" id="menu-item-109">
+           <a href="http://www.mb.com.ph/category/business/business-trade/">
+            Trade
+           </a>
+          </li>
+          <li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-107" id="menu-item-107">
+           <a href="http://www.mb.com.ph/category/business/business-columnist/">
+            Business Columnists
+           </a>
+          </li>
+          <li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-151692" id="menu-item-151692">
+           <a href="http://www.mb.com.ph/category/business/business-tech/">
+            Business Tech
+           </a>
+          </li>
+         </ul>
+        </li>
+        <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-127" id="menu-item-127">
+         <a href="http://www.mb.com.ph/sports/">
+          Sports
+         </a>
+         <ul class="sub-menu">
+          <li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-147" id="menu-item-147">
+           <a href="http://www.mb.com.ph/category/sports/sports-news/">
+            Sports News
+           </a>
+          </li>
+          <li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-142" id="menu-item-142">
+           <a href="http://www.mb.com.ph/category/sports/basketball/">
+            Basketball
+           </a>
+          </li>
+          <li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-143" id="menu-item-143">
+           <a href="http://www.mb.com.ph/category/sports/boxing/">
+            Boxing
+           </a>
+          </li>
+          <li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-148" id="menu-item-148">
+           <a href="http://www.mb.com.ph/category/sports/tennis/">
+            Tennis
+           </a>
+          </li>
+          <li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-144" id="menu-item-144">
+           <a href="http://www.mb.com.ph/category/sports/golf/">
+            Golf
+           </a>
+          </li>
+          <li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-145" id="menu-item-145">
+           <a href="http://www.mb.com.ph/category/sports/other-sports-news/">
+            Other Sports
+           </a>
+          </li>
+          <li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-146" id="menu-item-146">
+           <a href="http://www.mb.com.ph/category/sports/sports-columnists/">
+            Sports Columnists
+           </a>
+          </li>
+         </ul>
+        </li>
+        <li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-796" id="menu-item-796">
+         <a href="http://www.mb.com.ph/category/entertainment/">
+          Entertainment
+         </a>
+        </li>
+        <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-124" id="menu-item-124">
+         <a href="http://www.mb.com.ph/lifestyle/">
+          Lifestyle
+         </a>
+         <ul class="sub-menu">
+          <li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-165690" id="menu-item-165690">
+           <a href="http://www.mb.com.ph/category/lifestyle/food-lifestyle/">
+            Food
+           </a>
+          </li>
+          <li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-165689" id="menu-item-165689">
+           <a href="http://www.mb.com.ph/category/lifestyle/travel/">
+            Travel
+           </a>
+          </li>
+          <li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-159" id="menu-item-159">
+           <a href="http://www.mb.com.ph/category/lifestyle/well-being/">
+            Wellbeing
+           </a>
+          </li>
+          <li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-156" id="menu-item-156">
+           <a href="http://www.mb.com.ph/category/lifestyle/moms-and-kids/">
+            Moms &amp; Kids
+           </a>
+          </li>
+          <li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-165695" id="menu-item-165695">
+           <a href="http://www.mb.com.ph/category/lifestyle/arts-and-cultures/">
+            Arts &amp; Culture
+           </a>
+          </li>
+          <li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-4397" id="menu-item-4397">
+           <a href="http://www.mb.com.ph/category/lifestyle/picture-perfect/">
+            Picture Perfect
+           </a>
+          </li>
+          <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-82602" id="menu-item-82602">
+           <a href="http://www.mb.com.ph/news-in-photo-2/">
+            News in Photo
+           </a>
+          </li>
+          <li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-154" id="menu-item-154">
+           <a href="http://www.mb.com.ph/category/lifestyle/home-and-garden/">
+            Home &amp; Garden
+           </a>
+          </li>
+          <li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-151" id="menu-item-151">
+           <a href="http://www.mb.com.ph/category/lifestyle/fashion-and-beauty/">
+            Fashion &amp; Beauty
+           </a>
+          </li>
+          <li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-165747" id="menu-item-165747">
+           <a href="http://www.mb.com.ph/category/lifestyle/tech-lifestyle/">
+            Tech Lifestyle
+           </a>
+          </li>
+          <li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-158" id="menu-item-158">
+           <a href="http://www.mb.com.ph/category/lifestyle/style-weekend/">
+            Style Weekend
+           </a>
+          </li>
+          <li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-165746" id="menu-item-165746">
+           <a href="http://www.mb.com.ph/category/lifestyle/life-leisure/">
+            Life &amp; Leisure
+           </a>
+          </li>
+          <li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-155" id="menu-item-155">
+           <a href="http://www.mb.com.ph/category/lifestyle/lifestyle-columnists/">
+            Lifestyle Columnists
+           </a>
+          </li>
+          <li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-36373" id="menu-item-36373">
+           <a href="http://www.mb.com.ph/category/lifestyle/picture-perfect-columnists/">
+            Picture Perfect Columnists
+           </a>
+          </li>
+          <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-922" id="menu-item-922">
+           <a href="http://www.mb.com.ph/fun-page/">
+            Fun Page
+           </a>
+          </li>
+          <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2413" id="menu-item-2413">
+           <a href="http://www.mb.com.ph/games/">
+            Games
+           </a>
+          </li>
+         </ul>
+        </li>
+        <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-128" id="menu-item-128">
+         <a href="http://www.mb.com.ph/technews/">
+          Technews
+         </a>
+         <ul class="sub-menu">
+          <li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-132" id="menu-item-132">
+           <a href="http://www.mb.com.ph/category/technews/technology-news/">
+            Technology
+           </a>
+          </li>
+          <li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-130" id="menu-item-130">
+           <a href="http://www.mb.com.ph/category/technews/reviews/">
+            Reviews
+           </a>
+          </li>
+          <li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-129" id="menu-item-129">
+           <a href="http://www.mb.com.ph/category/technews/features/">
+            Features
+           </a>
+          </li>
+          <li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-133" id="menu-item-133">
+           <a href="http://www.mb.com.ph/category/technews/tech-columnists/">
+            Tech Columnists
+           </a>
+          </li>
+         </ul>
+        </li>
+        <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-126" id="menu-item-126">
+         <a href="http://www.mb.com.ph/others/">
+          Others
+         </a>
+         <ul class="sub-menu">
+          <li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-160" id="menu-item-160">
+           <a href="http://www.mb.com.ph/category/others/agriculture/">
+            Agriculture
+           </a>
+          </li>
+          <li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-161" id="menu-item-161">
+           <a href="http://www.mb.com.ph/category/others/motoring/">
+            Motoring
+           </a>
+          </li>
+          <li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-163" id="menu-item-163">
+           <a href="http://www.mb.com.ph/category/others/property/">
+            Property
+           </a>
+          </li>
+          <li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-162" id="menu-item-162">
+           <a href="http://www.mb.com.ph/category/others/panorama/">
+            Panorama
+           </a>
+          </li>
+         </ul>
+        </li>
+        <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-245394" id="menu-item-245394">
+         <a href="#">
+          Subscriptions
+         </a>
+         <ul class="sub-menu">
+          <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-245018" id="menu-item-245018">
+           <a href="http://subscription.mb.com.ph/">
+            Print
+           </a>
+          </li>
+          <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6054" id="menu-item-6054">
+           <a href="http://www.mb.com.ph/epaper/">
+            ePaper
+           </a>
+          </li>
+          <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-245020" id="menu-item-245020">
+           <a href="http://www.mb.com.ph/newsletter/">
+            Newsletter
+           </a>
+          </li>
+         </ul>
+        </li>
+        <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-215321" id="menu-item-215321">
+         <a href="http://mb.com.ph/booking/">
+          Booking
+         </a>
+        </li>
+       </ul>
+      </div>
+      <!-- #mainmenu -->
+     </div>
+     <!--stickynav-->
+     <div id="submenu">
+      <div id="stickNav">
+       <ul class="subnav dropdown">
+        <!--<li class="date right">
+				<script type="text/javascript">						
+					var mydate=new Date()
+					var year=mydate.getYear()
+					if (year < 1000)
+					year+=1900
+					var day=mydate.getDay()
+					var month=mydate.getMonth()
+					var daym=mydate.getDate()
+					if (daym<10)
+					daym="0"+daym
+					var dayarray=new Array("Sunday","Monday","Tuesday","Wednesday","Thursday","Friday","Saturday")
+					var montharray=new Array("January","February","March","April","May","June","July","August","September","October","November","December")
+					document.write(""+dayarray[day]+", "+montharray[month]+" "+daym+", "+year+"")		
+				</script>
+			</li>-->
+       </ul>
+       <div class="clear">
+       </div>
+      </div>
+      <!-- /submenu holder for stickynav-->
+     </div>
+     <!-- /submenu -->
+    </div>
+    <div class="wrapper_banner wrapper_banner_nav_2">
+     <div id="stickNav_2">
+      <div id="mainmenu">
+       <ul class="mainnav dropdown" style="float:left;">
+        <li>
+         <img alt="Manila Bulletin" src="http://www.mb.com.ph/wp-content/themes/city-desk/styles/blue/mb-new-sticky-logo.png" style="vertical-align:middle;" title="Manila Bulletin"/>
+        </li>
+        <li class="first">
+         <a href="http://www.mb.com.ph/" title="">
+          Home
+         </a>
+        </li>
+        <li class="menu-item menu-item-type-post_type menu-item-object-page current-menu-ancestor current-menu-parent current_page_parent current_page_ancestor menu-item-125">
+         <a href="http://www.mb.com.ph/news/">
+          News
+         </a>
+         <ul class="sub-menu">
+          <li class="menu-item menu-item-type-taxonomy menu-item-object-category current-menu-item menu-item-136">
+           <a href="http://www.mb.com.ph/category/news/national/">
+            National
+           </a>
+          </li>
+          <li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-135">
+           <a href="http://www.mb.com.ph/category/news/metro/">
+            Metro
+           </a>
+          </li>
+          <li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-138">
+           <a href="http://www.mb.com.ph/category/news/provincial/">
+            Provincial
+           </a>
+          </li>
+          <li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-140">
+           <a href="http://www.mb.com.ph/category/news/world/">
+            World
+           </a>
+          </li>
+          <li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-134">
+           <a href="http://www.mb.com.ph/category/news/environment-and-nature/">
+            Environment &amp; Nature
+           </a>
+          </li>
+          <li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-139">
+           <a href="http://www.mb.com.ph/category/news/scu/">
+            SCU
+           </a>
+          </li>
+          <li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2491">
+           <a href="http://www.mb.com.ph/category/news/opinions-and-editorials/">
+            Opinions and Editorials
+           </a>
+          </li>
+          <li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-36371">
+           <a href="http://www.mb.com.ph/category/news/op-ed-columnists/">
+            Op Ed Columnists
+           </a>
+          </li>
+          <li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-36372">
+           <a href="http://www.mb.com.ph/category/news/scu-columnists/">
+            SCU Columnists
+           </a>
+          </li>
+          <li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-56629">
+           <a href="http://www.mb.com.ph/category/news/faith/">
+            Faith
+           </a>
+          </li>
+          <li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-141">
+           <a href="http://www.mb.com.ph/category/news/off-beats/">
+            Off Beats
+           </a>
+          </li>
+         </ul>
+        </li>
+        <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-122">
+         <a href="http://www.mb.com.ph/business/">
+          Business
+         </a>
+         <ul class="sub-menu">
+          <li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-108">
+           <a href="http://www.mb.com.ph/category/business/business-news/">
+            Business News
+           </a>
+          </li>
+          <li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-110">
+           <a href="http://www.mb.com.ph/category/business/investment/">
+            Investment
+           </a>
+          </li>
+          <li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-105">
+           <a href="http://www.mb.com.ph/category/business/banking-and-finance/">
+            Banking &amp; Finance
+           </a>
+          </li>
+          <li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-112">
+           <a href="http://www.mb.com.ph/category/business/stock-market/">
+            Stock Market
+           </a>
+          </li>
+          <li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-111">
+           <a href="http://www.mb.com.ph/category/business/shipping/">
+            Shipping
+           </a>
+          </li>
+          <li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-106">
+           <a href="http://www.mb.com.ph/category/business/business-agenda/">
+            Business Agenda
+           </a>
+          </li>
+          <li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-109">
+           <a href="http://www.mb.com.ph/category/business/business-trade/">
+            Trade
+           </a>
+          </li>
+          <li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-107">
+           <a href="http://www.mb.com.ph/category/business/business-columnist/">
+            Business Columnists
+           </a>
+          </li>
+          <li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-151692">
+           <a href="http://www.mb.com.ph/category/business/business-tech/">
+            Business Tech
+           </a>
+          </li>
+         </ul>
+        </li>
+        <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-127">
+         <a href="http://www.mb.com.ph/sports/">
+          Sports
+         </a>
+         <ul class="sub-menu">
+          <li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-147">
+           <a href="http://www.mb.com.ph/category/sports/sports-news/">
+            Sports News
+           </a>
+          </li>
+          <li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-142">
+           <a href="http://www.mb.com.ph/category/sports/basketball/">
+            Basketball
+           </a>
+          </li>
+          <li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-143">
+           <a href="http://www.mb.com.ph/category/sports/boxing/">
+            Boxing
+           </a>
+          </li>
+          <li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-148">
+           <a href="http://www.mb.com.ph/category/sports/tennis/">
+            Tennis
+           </a>
+          </li>
+          <li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-144">
+           <a href="http://www.mb.com.ph/category/sports/golf/">
+            Golf
+           </a>
+          </li>
+          <li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-145">
+           <a href="http://www.mb.com.ph/category/sports/other-sports-news/">
+            Other Sports
+           </a>
+          </li>
+          <li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-146">
+           <a href="http://www.mb.com.ph/category/sports/sports-columnists/">
+            Sports Columnists
+           </a>
+          </li>
+         </ul>
+        </li>
+        <li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-796">
+         <a href="http://www.mb.com.ph/category/entertainment/">
+          Entertainment
+         </a>
+        </li>
+        <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-124">
+         <a href="http://www.mb.com.ph/lifestyle/">
+          Lifestyle
+         </a>
+         <ul class="sub-menu">
+          <li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-165690">
+           <a href="http://www.mb.com.ph/category/lifestyle/food-lifestyle/">
+            Food
+           </a>
+          </li>
+          <li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-165689">
+           <a href="http://www.mb.com.ph/category/lifestyle/travel/">
+            Travel
+           </a>
+          </li>
+          <li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-159">
+           <a href="http://www.mb.com.ph/category/lifestyle/well-being/">
+            Wellbeing
+           </a>
+          </li>
+          <li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-156">
+           <a href="http://www.mb.com.ph/category/lifestyle/moms-and-kids/">
+            Moms &amp; Kids
+           </a>
+          </li>
+          <li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-165695">
+           <a href="http://www.mb.com.ph/category/lifestyle/arts-and-cultures/">
+            Arts &amp; Culture
+           </a>
+          </li>
+          <li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-4397">
+           <a href="http://www.mb.com.ph/category/lifestyle/picture-perfect/">
+            Picture Perfect
+           </a>
+          </li>
+          <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-82602">
+           <a href="http://www.mb.com.ph/news-in-photo-2/">
+            News in Photo
+           </a>
+          </li>
+          <li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-154">
+           <a href="http://www.mb.com.ph/category/lifestyle/home-and-garden/">
+            Home &amp; Garden
+           </a>
+          </li>
+          <li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-151">
+           <a href="http://www.mb.com.ph/category/lifestyle/fashion-and-beauty/">
+            Fashion &amp; Beauty
+           </a>
+          </li>
+          <li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-165747">
+           <a href="http://www.mb.com.ph/category/lifestyle/tech-lifestyle/">
+            Tech Lifestyle
+           </a>
+          </li>
+          <li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-158">
+           <a href="http://www.mb.com.ph/category/lifestyle/style-weekend/">
+            Style Weekend
+           </a>
+          </li>
+          <li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-165746">
+           <a href="http://www.mb.com.ph/category/lifestyle/life-leisure/">
+            Life &amp; Leisure
+           </a>
+          </li>
+          <li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-155">
+           <a href="http://www.mb.com.ph/category/lifestyle/lifestyle-columnists/">
+            Lifestyle Columnists
+           </a>
+          </li>
+          <li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-36373">
+           <a href="http://www.mb.com.ph/category/lifestyle/picture-perfect-columnists/">
+            Picture Perfect Columnists
+           </a>
+          </li>
+          <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-922">
+           <a href="http://www.mb.com.ph/fun-page/">
+            Fun Page
+           </a>
+          </li>
+          <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2413">
+           <a href="http://www.mb.com.ph/games/">
+            Games
+           </a>
+          </li>
+         </ul>
+        </li>
+        <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-128">
+         <a href="http://www.mb.com.ph/technews/">
+          Technews
+         </a>
+         <ul class="sub-menu">
+          <li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-132">
+           <a href="http://www.mb.com.ph/category/technews/technology-news/">
+            Technology
+           </a>
+          </li>
+          <li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-130">
+           <a href="http://www.mb.com.ph/category/technews/reviews/">
+            Reviews
+           </a>
+          </li>
+          <li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-129">
+           <a href="http://www.mb.com.ph/category/technews/features/">
+            Features
+           </a>
+          </li>
+          <li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-133">
+           <a href="http://www.mb.com.ph/category/technews/tech-columnists/">
+            Tech Columnists
+           </a>
+          </li>
+         </ul>
+        </li>
+        <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-126">
+         <a href="http://www.mb.com.ph/others/">
+          Others
+         </a>
+         <ul class="sub-menu">
+          <li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-160">
+           <a href="http://www.mb.com.ph/category/others/agriculture/">
+            Agriculture
+           </a>
+          </li>
+          <li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-161">
+           <a href="http://www.mb.com.ph/category/others/motoring/">
+            Motoring
+           </a>
+          </li>
+          <li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-163">
+           <a href="http://www.mb.com.ph/category/others/property/">
+            Property
+           </a>
+          </li>
+          <li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-162">
+           <a href="http://www.mb.com.ph/category/others/panorama/">
+            Panorama
+           </a>
+          </li>
+         </ul>
+        </li>
+        <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-245394">
+         <a href="#">
+          Subscriptions
+         </a>
+         <ul class="sub-menu">
+          <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-245018">
+           <a href="http://subscription.mb.com.ph/">
+            Print
+           </a>
+          </li>
+          <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6054">
+           <a href="http://www.mb.com.ph/epaper/">
+            ePaper
+           </a>
+          </li>
+          <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-245020">
+           <a href="http://www.mb.com.ph/newsletter/">
+            Newsletter
+           </a>
+          </li>
+         </ul>
+        </li>
+        <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-215321">
+         <a href="http://mb.com.ph/booking/">
+          Booking
+         </a>
+        </li>
+       </ul>
+       <div class="arrowtotop">
+        <a href="#top" rel="home" title="Manila Bulletin | Latest Breaking News | News Philippines">
+         <img alt="Back to Top" src="http://www.mb.com.ph/wp-content/themes/city-desk/images/arrow-top.png" title="Back to Top">
+         </img>
+        </a>
+       </div>
+       <div class="clear">
+       </div>
+      </div>
+      <!-- #mainmenu -->
+      <div class="" id="submenu">
+       <ul class="subnav dropdown">
+        <!--<li class="date right">
+						<script type="text/javascript">
+							
+							var mydate=new Date()
+							var year=mydate.getYear()
+							if (year < 1000)
+							year+=1900
+							var day=mydate.getDay()
+							var month=mydate.getMonth()
+							var daym=mydate.getDate()
+							if (daym<10)
+							daym="0"+daym
+							var dayarray=new Array("Sunday","Monday","Tuesday","Wednesday","Thursday","Friday","Saturday")
+							var montharray=new Array("January","February","March","April","May","June","July","August","September","October","November","December")
+							document.write(""+dayarray[day]+", "+montharray[month]+" "+daym+", "+year+"")
+					
+						</script>
+					</li>-->
+       </ul>
+       <div class="clear">
+       </div>
+      </div>
+      <!-- /submenu -->
+     </div>
+     <!-- /submenu holder for stickynav-->
+    </div>
+    <!--wrapper_banner_nav holder-->
+    <div class="wrapper wrapper_bottom">
+     <!--wrapper holder for the main content-->
+     <div>
+      <!--extra-holder-->
+      <div class="top_c">
+       <div class="widget widget_text" id="text-21">
+        <div class="widgetinner">
+         <div class="textwidget">
+          <div class="top_leaderboard">
+           <div style="display:inline-block; margin-left:5px; margin-right:4px;">
+            <div class="sam-container sam-place" data-sam="1" id="c3883_267_33">
+             <script type="text/javascript">
+              &lt;!--//&lt;![CDATA[
+   var m3_u = (location.protocol=='https:'?'https://asianmedia.com/MS3/www/delivery/ajs.php':'http://asianmedia.com/MS3/www/delivery/ajs.php');
+   var m3_r = Math.floor(Math.random()*99999999999);
+   if (!document.MAX_used) document.MAX_used = ',';
+   document.write ("&lt;scr"+"ipt type='text/javascript' src='"+m3_u);
+   document.write ("?zoneid=69");
+   document.write ('&amp;cb=' + m3_r);
+   if (document.MAX_used != ',') document.write ("&amp;exclude=" + document.MAX_used);
+   document.write (document.charset ? '&amp;charset='+document.charset : (document.characterSet ? '&amp;charset='+document.characterSet : ''));
+   document.write ("&amp;loc=" + escape(window.location));
+   if (document.referrer) document.write ("&amp;referer=" + escape(document.referrer));
+   if (document.context) document.write ("&amp;context=" + escape(document.context));
+   if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
+   document.write ("'&gt;&lt;\/scr"+"ipt&gt;");
+//]]&gt;--&gt;
+             </script>
+             <noscript>
+              <a href="http://asianmedia.com/MS3/www/delivery/ck.php?n=a2ad22aa&amp;cb=INSERT_RANDOM_NUMBER_HERE" target="_blank">
+               <img alt="" border="0" src="http://asianmedia.com/MS3/www/delivery/avw.php?zoneid=69&amp;cb=INSERT_RANDOM_NUMBER_HERE&amp;n=a2ad22aa"/>
+              </a>
+             </noscript>
+            </div>
+           </div>
+           <div style="display:inline-block; margin-left:15px;">
+            <div class="sam-container sam-place" data-sam="1" id="c6043_0_34">
+            </div>
+           </div>
+          </div>
+          <!-- /* The tag in this template has been generated for use on a non-SSL page.
+      * If this tag is to be placed on an SSL page change the "http" to "https".
+*/ -->
+          <script type="text/javascript">
+           var _ase  = _ase || [];
+    	/* load placement for account: Manila Bulletin, site: http://mb.com.ph, zone size : 300x250 */
+    	_ase.push(["1415863169","1415863197"]);
+          </script>
+          <script src="http://static.gammaplatform.com/js/ad-exchange.js" type="text/javascript">
+          </script>
+          <noscript>
+           <iframe frameborder="0" height="250" scrolling="no" src="http://tag.gammaplatform.com/adx/noscript/zid_1415863197/wid_1415863169/" width="300">
+           </iframe>
+          </noscript>
+         </div>
+        </div>
+       </div>
+      </div>
+      <div style="position:relative;">
+       <div style="display:none;position:absolute; top:-125px; left:-170px; width:160px; height:600px;">
+       </div>
+       <div style="display:none;position:absolute; top:-125px; left:970px; width:160px; height:600px;">
+       </div>
+      </div>
+      <!--relative-->
+      <div id="container">
+       <!--29-->
+       <script>
+        $("#menu-item-125").addClass("current-menu-parent");
+       </script>
+       <!--archive-default-->
+       <a href="http://www.mb.com.ph">
+        Home
+       </a>
+       »
+       <a href="http://www.mb.com.ph/news/">
+        News
+       </a>
+       » National
+       <span class="" id="bcrum">
+       </span>
+       <div id="content">
+        <h1 class="entry_title">
+         <a>
+          National
+         </a>
+        </h1>
+        <!--<div id="postssss-" >-->
+        <div class="post-400675 post type-post status-publish format-standard hentry category-national tag-halalan-2016 tag-lp tag-manila-bulletin tag-may-2016-elections tag-news-today tag-p-noy tag-president-aquino entry loop-default" id="post-400675">
+         <p class="catname testCSS">
+          <!--pol 03 03 2014 category listing -->
+          <!--<a class="view-all" href="">More </a>-->
+          <!--<a class="view-all" href="">See Full</a>-->
+          <a href="http://www.mb.com.ph/aquino-being-president-is-not-a-walk-in-the-park/">
+           Aquino: Being president is not a ‘walk in the park’
+          </a>
+         </p>
+         <p class="postmeta">
+          <span class="meta_date">
+           March 16, 2016
+          </span>
+          <span class="meta_comment">
+           <a href="http://www.mb.com.ph/aquino-being-president-is-not-a-walk-in-the-park/#respond" title="Comment on Aquino: Being president is not a ‘walk in the park’">
+            <span class="dsq-postid" rel="400675 http://www.mb.com.ph/?p=400675">
+             No Comment
+            </span>
+           </a>
+          </span>
+          <span class="meta_permalink">
+           <a href="http://www.mb.com.ph/aquino-being-president-is-not-a-walk-in-the-park/" rel="bookmark" title="Permalink to Aquino: Being president is not a ‘walk in the park’">
+            Read More
+           </a>
+          </span>
+         </p>
+         <!--<h2 class="entry_title x_x">
+			<a href="http://www.mb.com.ph/aquino-being-president-is-not-a-walk-in-the-park/" rel="bookmark" title="Permalink to Aquino: Being president is not a &#8216;walk in the park&#8217;" >Aquino: Being president is not a &#8216;walk in the park&#8217;</a><a class="view-all" href="http://www.mb.com.ph/aquino-being-president-is-not-a-walk-in-the-park/">More</a>
+		</h2>-->
+         <a href="http://www.mb.com.ph/aquino-being-president-is-not-a-walk-in-the-park/" rel="bookmark">
+          <div class="post_img_holder" style="background:url(http://www.mb.com.ph/wp-content/uploads/2016/03/PMA_3_Baguio_Malacanang-Photo_130316.jpg); background-size:cover; -moz-background-size:cover; -webkit-background-size:cover; background-position:center;">
+          </div>
+         </a>
+         After nearly six years in office, President Aquino conceded that being the country’s highest government leader has not been a walk in a park.
+
+Addressing a Liberal Party campaign rally in Batangas City on Wednesday, March 16, 2016, the President complained about the insults and attacks hurled against him from some newspaper columnists and detractors over the years.
+
+
+
+Aquino, who ran with a campaign on fighting corruption and poverty, is set to step down from office this June after six years in power.
+
+“Alam po niyo ang buhay ng Pangulo mahirap, alam po niyo kung paano tayo laitin, murahin, ‘di galangin ng mga kolumnista at iba pa. Mahirap po talaga ang trabahong ito (You know, the life of a president is difficult, how much we are attacked, cursed, and not respected by columnists and …
+         <p class="readMoreHolder">
+          <a class="view-all test" href="http://www.mb.com.ph/aquino-being-president-is-not-a-walk-in-the-park/">
+           Read More
+          </a>
+         </p>
+        </div>
+        <!--<div id="postssss-" >-->
+        <div class="post-400654 post type-post status-publish format-standard hentry category-national tag-binay tag-halalan-2016 tag-ilocos-sur tag-manila-bulletin tag-news-today tag-solid-north tag-vigan entry loop-default" id="post-400654">
+         <p class="catname testCSS">
+          <!--pol 03 03 2014 category listing -->
+          <!--<a class="view-all" href="">More </a>-->
+          <!--<a class="view-all" href="">See Full</a>-->
+          <a href="http://www.mb.com.ph/vp-binay-trumpets-support-of-ilocanos/">
+           VP Binay trumpets support of Ilocanos
+          </a>
+         </p>
+         <p class="postmeta">
+          <span class="meta_date">
+           March 16, 2016
+          </span>
+          <span class="meta_comment">
+           <a href="http://www.mb.com.ph/vp-binay-trumpets-support-of-ilocanos/#respond" title="Comment on VP Binay trumpets support of Ilocanos">
+            <span class="dsq-postid" rel="400654 http://www.mb.com.ph/?p=400654">
+             No Comment
+            </span>
+           </a>
+          </span>
+          <span class="meta_permalink">
+           <a href="http://www.mb.com.ph/vp-binay-trumpets-support-of-ilocanos/" rel="bookmark" title="Permalink to VP Binay trumpets support of Ilocanos">
+            Read More
+           </a>
+          </span>
+         </p>
+         <!--<h2 class="entry_title x_x">
+			<a href="http://www.mb.com.ph/vp-binay-trumpets-support-of-ilocanos/" rel="bookmark" title="Permalink to VP Binay trumpets support of Ilocanos" >VP Binay trumpets support of Ilocanos</a><a class="view-all" href="http://www.mb.com.ph/vp-binay-trumpets-support-of-ilocanos/">More</a>
+		</h2>-->
+         <a href="http://www.mb.com.ph/vp-binay-trumpets-support-of-ilocanos/" rel="bookmark">
+          <div class="post_img_holder" style="background:url(http://www.mb.com.ph/wp-content/uploads/2016/02/10_una.jpg); background-size:cover; -moz-background-size:cover; -webkit-background-size:cover; background-position:center;">
+          </div>
+         </a>
+         Vice President Jejomar Binay has trumpeted the support of the Ilocano voters in Vigan, Ilocos Sur, but local officials said they have yet to decide on who they will endorse.
+
+"The game is over. Pag nanalo ka sa Ilocos, panalo ka na sa pagiging pangulo ng buong bansa. (When you win in Ilocos, you also win the presidency in the entire country," Binay said in a speech during his campaign rally.
+
+
+
+Binay and his United Nationalist Alliance (UNA) slate received a warm welcome from the Ilocanos, led by their governor, Ryan Singson and Vigan Mayor Eva Marie Medina.
+
+Governor Ryan Singson, son of former Governor Chavit, said all candidates are open to campaign in the province.
+
+"All (candidates) are friends. The entire Ilocos is open to candidates so we can learn their platforms, whatever …
+         <p class="readMoreHolder">
+          <a class="view-all test" href="http://www.mb.com.ph/vp-binay-trumpets-support-of-ilocanos/">
+           Read More
+          </a>
+         </p>
+        </div>
+        <!--<div id="postssss-" >-->
+        <div class="post-400630 post type-post status-publish format-standard hentry category-national tag-batangas tag-laguna tag-leni-robredo tag-manila-bulletin tag-mar-roxas tag-news-today tag-president-aquino entry loop-default" id="post-400630">
+         <p class="catname testCSS">
+          <!--pol 03 03 2014 category listing -->
+          <!--<a class="view-all" href="">More </a>-->
+          <!--<a class="view-all" href="">See Full</a>-->
+          <a href="http://www.mb.com.ph/president-aquino-starts-farewell-tour-in-laguna-batangas/">
+           President Aquino starts farewell tour in Laguna, Batangas
+          </a>
+         </p>
+         <p class="postmeta">
+          <span class="meta_date">
+           March 16, 2016
+          </span>
+          <span class="meta_comment">
+           <a href="http://www.mb.com.ph/president-aquino-starts-farewell-tour-in-laguna-batangas/#respond" title="Comment on President Aquino starts farewell tour in Laguna, Batangas">
+            <span class="dsq-postid" rel="400630 http://www.mb.com.ph/?p=400630">
+             No Comment
+            </span>
+           </a>
+          </span>
+          <span class="meta_permalink">
+           <a href="http://www.mb.com.ph/president-aquino-starts-farewell-tour-in-laguna-batangas/" rel="bookmark" title="Permalink to President Aquino starts farewell tour in Laguna, Batangas">
+            Read More
+           </a>
+          </span>
+         </p>
+         <!--<h2 class="entry_title x_x">
+			<a href="http://www.mb.com.ph/president-aquino-starts-farewell-tour-in-laguna-batangas/" rel="bookmark" title="Permalink to President Aquino starts farewell tour in Laguna, Batangas" >President Aquino starts farewell tour in Laguna, Batangas</a><a class="view-all" href="http://www.mb.com.ph/president-aquino-starts-farewell-tour-in-laguna-batangas/">More</a>
+		</h2>-->
+         <a href="http://www.mb.com.ph/president-aquino-starts-farewell-tour-in-laguna-batangas/" rel="bookmark">
+          <div class="post_img_holder" style="background:url(http://www.mb.com.ph/wp-content/uploads/2016/03/CdpkRDiWAAAJjQf.jpg); background-size:cover; -moz-background-size:cover; -webkit-background-size:cover; background-position:center;">
+          </div>
+         </a>
+         With a little over a hundred days left in office, President Benigno S. Aquino III started his farewell tour as he campaigned for Liberal Party candidates Mar Roxas and Leni Robredo during his visit in the provinces of Laguna and Batangas.
+
+In making the campaign pitch for Roxas and Robredo, Aquino explained that it was his duty to ensure the continuity of the country's economic growth and good governance beyond his term.
+
+
+
+The President said the country will be in good hands if the administration's tandem of Roxas and Robredo will be elected in the May polls, since they will certainly expand the gains of Daang Matuwid.
+
+"Nagpapaalam na po ako sa lahat. At siyempre, gusto ko naman bago tayo maghiwa-hiwalay, masigurado ko na hindi lang, number one, na maayos ang lugar niyo o …
+         <p class="readMoreHolder">
+          <a class="view-all test" href="http://www.mb.com.ph/president-aquino-starts-farewell-tour-in-laguna-batangas/">
+           Read More
+          </a>
+         </p>
+        </div>
+        <!--<div id="postssss-" >-->
+        <div class="post-400518 post type-post status-publish format-standard hentry category-national tag-amlc tag-casinos tag-manila-bulletin tag-miriam-defensor-santiago tag-money-laundering tag-news-today tag-rcbc entry loop-default" id="post-400518">
+         <p class="catname testCSS">
+          <!--pol 03 03 2014 category listing -->
+          <!--<a class="view-all" href="">More </a>-->
+          <!--<a class="view-all" href="">See Full</a>-->
+          <a href="http://www.mb.com.ph/miriam-to-include-casinos-in-amla-coverage-if-elected/">
+           Miriam to include casinos in AMLA coverage if elected
+          </a>
+         </p>
+         <p class="postmeta">
+          <span class="meta_date">
+           March 16, 2016
+          </span>
+          <span class="meta_comment">
+           <a href="http://www.mb.com.ph/miriam-to-include-casinos-in-amla-coverage-if-elected/#respond" title="Comment on Miriam to include casinos in AMLA coverage if elected">
+            <span class="dsq-postid" rel="400518 http://www.mb.com.ph/?p=400518">
+             No Comment
+            </span>
+           </a>
+          </span>
+          <span class="meta_permalink">
+           <a href="http://www.mb.com.ph/miriam-to-include-casinos-in-amla-coverage-if-elected/" rel="bookmark" title="Permalink to Miriam to include casinos in AMLA coverage if elected">
+            Read More
+           </a>
+          </span>
+         </p>
+         <!--<h2 class="entry_title x_x">
+			<a href="http://www.mb.com.ph/miriam-to-include-casinos-in-amla-coverage-if-elected/" rel="bookmark" title="Permalink to Miriam to include casinos in AMLA coverage if elected" >Miriam to include casinos in AMLA coverage if elected</a><a class="view-all" href="http://www.mb.com.ph/miriam-to-include-casinos-in-amla-coverage-if-elected/">More</a>
+		</h2>-->
+         <a href="http://www.mb.com.ph/miriam-to-include-casinos-in-amla-coverage-if-elected/" rel="bookmark">
+          <div class="post_img_holder" style="background:url(http://www.mb.com.ph/wp-content/uploads/2015/10/g9.jpg); background-size:cover; -moz-background-size:cover; -webkit-background-size:cover; background-position:center;">
+          </div>
+         </a>
+         After warning that the Philippines might end up as a ‘’money laundering’’ hub, presidential candidate Senator Miriam Defensor Santiago vowed that she would certify a bill expanding the coverage of the Anti-Money Laundering Act (AMLA) to include casinos, if elected in the May 9, 2016 national elections.
+
+Santiago said the recent $81-million fiasco involving funds hacked from the Bank of Bangladesh and plowed to the Rizal Commercial Banking Corporation (RCBC) highlights the urgent need to require casinos to report questionable deals to the Anti-Money Laundering Council (AMLC).
+
+
+
+“If the casino sector remains outside of the coverage of AMLA, the Philippines risks becoming the world’s money laundering capital,” she said.
+
+Santiago won the Ramon Magsaysay Award in 1988 for reforming the Commission on Immigration and Deportation, which was then known as the “fake passport …
+         <p class="readMoreHolder">
+          <a class="view-all test" href="http://www.mb.com.ph/miriam-to-include-casinos-in-amla-coverage-if-elected/">
+           Read More
+          </a>
+         </p>
+        </div>
+        <!--<div id="postssss-" >-->
+        <div class="post-400540 post type-post status-publish format-standard hentry category-national tag-grace-poe tag-halalan-2016 tag-manila-bulletin tag-may-2016-elections tag-news-today entry loop-default" id="post-400540">
+         <p class="catname testCSS">
+          <!--pol 03 03 2014 category listing -->
+          <!--<a class="view-all" href="">More </a>-->
+          <!--<a class="view-all" href="">See Full</a>-->
+          <a href="http://www.mb.com.ph/poe-denies-she-has-a-dark-side/">
+           Poe denies she has a ‘dark side’
+          </a>
+         </p>
+         <p class="postmeta">
+          <span class="meta_date">
+           March 16, 2016
+          </span>
+          <span class="meta_comment">
+           <a href="http://www.mb.com.ph/poe-denies-she-has-a-dark-side/#respond" title="Comment on Poe denies she has a ‘dark side’">
+            <span class="dsq-postid" rel="400540 http://www.mb.com.ph/?p=400540">
+             No Comment
+            </span>
+           </a>
+          </span>
+          <span class="meta_permalink">
+           <a href="http://www.mb.com.ph/poe-denies-she-has-a-dark-side/" rel="bookmark" title="Permalink to Poe denies she has a ‘dark side’">
+            Read More
+           </a>
+          </span>
+         </p>
+         <!--<h2 class="entry_title x_x">
+			<a href="http://www.mb.com.ph/poe-denies-she-has-a-dark-side/" rel="bookmark" title="Permalink to Poe denies she has a &#8216;dark side&#8217;" >Poe denies she has a &#8216;dark side&#8217;</a><a class="view-all" href="http://www.mb.com.ph/poe-denies-she-has-a-dark-side/">More</a>
+		</h2>-->
+         <a href="http://www.mb.com.ph/poe-denies-she-has-a-dark-side/" rel="bookmark">
+          <div class="post_img_holder" style="background:url(http://www.mb.com.ph/wp-content/uploads/2016/03/Grace-Poe-Makati_MPD_02_GANZON_160316.jpg); background-size:cover; -moz-background-size:cover; -webkit-background-size:cover; background-position:center;">
+          </div>
+         </a>
+         Though her staunchest critics have accused her of having a dark side, presidential aspirant Senator Grace Poe admitted she has “a lot of flaws” but nothing as exaggerated as what her detractors are saying about her.
+
+Poe made this assurance during a presidential forum in Makati City attended by members of the Makati Business Club (MBC) and the Management Association of the Philippines (MAP).
+
+
+
+“Actually as a public figure, you have to maintain a certain demeanor. You also have a responsibility to the public but, of course, I’m not perfect. I have a lot of flaws, my husband can tell you that, my friends even. They know who I am,” Poe said.
+
+“No, I’ve never thrown a cell phone, a shoe, or a laptop at anyone. I think I have this calmness in …
+         <p class="readMoreHolder">
+          <a class="view-all test" href="http://www.mb.com.ph/poe-denies-she-has-a-dark-side/">
+           Read More
+          </a>
+         </p>
+        </div>
+        <!--<div id="postssss-" >-->
+        <div class="post-400611 post type-post status-publish format-standard hentry category-national tag-japanese-submarine tag-manila-bulletin tag-maritime-disputes tag-news-today tag-port-call tag-south-china-sea tag-west-phl-sea entry loop-default" id="post-400611">
+         <p class="catname testCSS">
+          <!--pol 03 03 2014 category listing -->
+          <!--<a class="view-all" href="">More </a>-->
+          <!--<a class="view-all" href="">See Full</a>-->
+          <a href="http://www.mb.com.ph/japan-submarine-to-visit-phl-other-ships-to-vietnam/">
+           Japan submarine to visit PHL, other ships to Vietnam
+          </a>
+         </p>
+         <p class="postmeta">
+          <span class="meta_date">
+           March 16, 2016
+          </span>
+          <span class="meta_comment">
+           <a href="http://www.mb.com.ph/japan-submarine-to-visit-phl-other-ships-to-vietnam/#respond" title="Comment on Japan submarine to visit PHL, other ships to Vietnam">
+            <span class="dsq-postid" rel="400611 http://www.mb.com.ph/?p=400611">
+             No Comment
+            </span>
+           </a>
+          </span>
+          <span class="meta_permalink">
+           <a href="http://www.mb.com.ph/japan-submarine-to-visit-phl-other-ships-to-vietnam/" rel="bookmark" title="Permalink to Japan submarine to visit PHL, other ships to Vietnam">
+            Read More
+           </a>
+          </span>
+         </p>
+         <!--<h2 class="entry_title x_x">
+			<a href="http://www.mb.com.ph/japan-submarine-to-visit-phl-other-ships-to-vietnam/" rel="bookmark" title="Permalink to Japan submarine to visit PHL, other ships to Vietnam" >Japan submarine to visit PHL, other ships to Vietnam</a><a class="view-all" href="http://www.mb.com.ph/japan-submarine-to-visit-phl-other-ships-to-vietnam/">More</a>
+		</h2>-->
+         <a href="http://www.mb.com.ph/japan-submarine-to-visit-phl-other-ships-to-vietnam/" rel="bookmark">
+          <div class="post_img_holder" style="background:url(http://www.mb.com.ph/wp-content/uploads/2015/11/South-China-Sea.jpg); background-size:cover; -moz-background-size:cover; -webkit-background-size:cover; background-position:center;">
+          </div>
+         </a>
+         Tokyo, Japan - A Japanese submarine will make a port call in the Philippines for the first time in 15 years while accompanying naval ships will visit Vietnam's Cam Ranh Bay for the first time ever, Japan's navy said.
+
+The announcement came days after China accused its Asian rival of interfering in the South China Sea.
+
+Japan, which occupied the Philippines and Vietnam during World War II, is now strengthening relations. All three countries share growing concerns about China's increasing military muscle amid a series of maritime disputes.
+
+China claims almost all the South China Sea. It is also embroiled in a separate row with Japan over disputed islands in the East China Sea that has seen relations sour badly in recent years.
+
+Tensions in the South China Sea -- through which one-third of the world's oil …
+         <p class="readMoreHolder">
+          <a class="view-all test" href="http://www.mb.com.ph/japan-submarine-to-visit-phl-other-ships-to-vietnam/">
+           Read More
+          </a>
+         </p>
+        </div>
+        <!--<div id="postssss-" >-->
+        <div class="post-400571 post type-post status-publish format-standard hentry category-latest_news category-national tag-2016-polls tag-donald-trump tag-hillary-clinton tag-manila-bulletin tag-news-today tag-us-elections tag-white-house-nominations entry loop-default" id="post-400571">
+         <p class="catname testCSS">
+          <!--pol 03 03 2014 category listing -->
+          <!--<a class="view-all" href="">More </a>-->
+          <!--<a class="view-all" href="">See Full</a>-->
+          <a href="http://www.mb.com.ph/clinton-trump-move-closer-to-white-house-nominations/">
+           Clinton, Trump move closer to White House nominations
+          </a>
+         </p>
+         <p class="postmeta">
+          <span class="meta_date">
+           March 16, 2016
+          </span>
+          <span class="meta_comment">
+           <a href="http://www.mb.com.ph/clinton-trump-move-closer-to-white-house-nominations/#respond" title="Comment on Clinton, Trump move closer to White House nominations">
+            <span class="dsq-postid" rel="400571 http://www.mb.com.ph/?p=400571">
+             No Comment
+            </span>
+           </a>
+          </span>
+          <span class="meta_permalink">
+           <a href="http://www.mb.com.ph/clinton-trump-move-closer-to-white-house-nominations/" rel="bookmark" title="Permalink to Clinton, Trump move closer to White House nominations">
+            Read More
+           </a>
+          </span>
+         </p>
+         <!--<h2 class="entry_title x_x">
+			<a href="http://www.mb.com.ph/clinton-trump-move-closer-to-white-house-nominations/" rel="bookmark" title="Permalink to Clinton, Trump move closer to White House nominations" >Clinton, Trump move closer to White House nominations</a><a class="view-all" href="http://www.mb.com.ph/clinton-trump-move-closer-to-white-house-nominations/">More</a>
+		</h2>-->
+         <a href="http://www.mb.com.ph/clinton-trump-move-closer-to-white-house-nominations/" rel="bookmark">
+          <div class="post_img_holder" style="background:url(http://www.mb.com.ph/wp-content/uploads/2016/03/Clinton-Trump2.jpg); background-size:cover; -moz-background-size:cover; -webkit-background-size:cover; background-position:center;">
+          </div>
+         </a>
+         by Michael Mathes, with Andrew Beatty in Washington
+
+
+
+Cleveland, United States  -- Hillary Clinton took a monumental step toward clinching the Democratic party's White House nomination, while Donald Trump's seemingly unstoppable rush to victory hit a bump in Ohio.
+
+Trump on Tuesday won key Republican primaries in Illinois, North Carolina and Florida -- where he thumped home state Senator Marco Rubio, who immediately announced he was suspending his presidential campaign.
+
+"This was an amazing evening," a buoyant Trump told supporters. "We're going to win, win, win and we're not stopping."
+
+Rubio's loss was a major setback for Republicans trying to stop the bellicose businessman, whose populist anti-immigrant, anti-Muslim stance they fear will split the party.
+
+The 69-year-old Trump was clinging to a narrow lead in Missouri with nearly all of the votes counted, but was denied a …
+         <p class="readMoreHolder">
+          <a class="view-all test" href="http://www.mb.com.ph/clinton-trump-move-closer-to-white-house-nominations/">
+           Read More
+          </a>
+         </p>
+        </div>
+        <!--<div id="postssss-" >-->
+        <div class="post-400490 post type-post status-publish format-standard hentry category-national tag-bantay-krimen tag-manila-bulletin tag-mobile-app tag-news-today tag-pnp entry loop-default" id="post-400490">
+         <p class="catname testCSS">
+          <!--pol 03 03 2014 category listing -->
+          <!--<a class="view-all" href="">More </a>-->
+          <!--<a class="view-all" href="">See Full</a>-->
+          <a href="http://www.mb.com.ph/pnp-launches-mobile-app-for-crime-awareness/">
+           PNP launches mobile app for crime awareness
+          </a>
+         </p>
+         <p class="postmeta">
+          <span class="meta_date">
+           March 16, 2016
+          </span>
+          <span class="meta_comment">
+           <a href="http://www.mb.com.ph/pnp-launches-mobile-app-for-crime-awareness/#respond" title="Comment on PNP launches mobile app for crime awareness">
+            <span class="dsq-postid" rel="400490 http://www.mb.com.ph/?p=400490">
+             No Comment
+            </span>
+           </a>
+          </span>
+          <span class="meta_permalink">
+           <a href="http://www.mb.com.ph/pnp-launches-mobile-app-for-crime-awareness/" rel="bookmark" title="Permalink to PNP launches mobile app for crime awareness">
+            Read More
+           </a>
+          </span>
+         </p>
+         <!--<h2 class="entry_title x_x">
+			<a href="http://www.mb.com.ph/pnp-launches-mobile-app-for-crime-awareness/" rel="bookmark" title="Permalink to PNP launches mobile app for crime awareness" >PNP launches mobile app for crime awareness</a><a class="view-all" href="http://www.mb.com.ph/pnp-launches-mobile-app-for-crime-awareness/">More</a>
+		</h2>-->
+         <a href="http://www.mb.com.ph/pnp-launches-mobile-app-for-crime-awareness/" rel="bookmark">
+          <div class="post_img_holder" style="background:url(http://www.mb.com.ph/wp-content/uploads/2016/03/Cdoz_rLUsAIZjIb.jpg); background-size:cover; -moz-background-size:cover; -webkit-background-size:cover; background-position:center;">
+          </div>
+         </a>
+         The Philippine National Police (PNP) launched a mobile application on Wednesday, March 16, 2016, dubbed as "Bantay Krimen", which the public can use to immediately report a crime.
+
+PNP chief, P/Dir. Gen. Ricardo C. Marquez led the launching ceremony held at the PNP headquarters in Camp Crame. Also present were Atty. Rogelio Casurao, National Police Commission (Napolcom) vice chair, P/Dir. Benjamin Magalong, head of the PNP Directorate for Investigation and Detection Management (DIDM), and students from the University of the Cordilleras (UC).
+
+
+
+The Bantay Krimen app is now available in Metro Manila, and will be later launched nationwide.
+
+The mobile application was developed at a minimal cost by engineers from the University of the Cordilleras in coordination with the DIDM, as part of its "Next Generation Investigation" project.
+
+According to the PNP, the Bantay Krimen …
+         <p class="readMoreHolder">
+          <a class="view-all test" href="http://www.mb.com.ph/pnp-launches-mobile-app-for-crime-awareness/">
+           Read More
+          </a>
+         </p>
+        </div>
+        <!--<div id="postssss-" >-->
+        <div class="post-400480 post type-post status-publish format-standard hentry category-latest_news category-national tag-2016-polls tag-grace-poe tag-jun-abaya tag-kim-henares tag-makati-business-club tag-manila-bulletin tag-news-today entry loop-default" id="post-400480">
+         <p class="catname testCSS">
+          <!--pol 03 03 2014 category listing -->
+          <!--<a class="view-all" href="">More </a>-->
+          <!--<a class="view-all" href="">See Full</a>-->
+          <a href="http://www.mb.com.ph/poe-to-remove-heads-of-dotc-bir-da-if-elected-president/">
+           Poe to remove heads of DOTC, BIR, DA if elected president
+          </a>
+         </p>
+         <p class="postmeta">
+          <span class="meta_date">
+           March 16, 2016
+          </span>
+          <span class="meta_comment">
+           <a href="http://www.mb.com.ph/poe-to-remove-heads-of-dotc-bir-da-if-elected-president/#respond" title="Comment on Poe to remove heads of DOTC, BIR, DA if elected president">
+            <span class="dsq-postid" rel="400480 http://www.mb.com.ph/?p=400480">
+             No Comment
+            </span>
+           </a>
+          </span>
+          <span class="meta_permalink">
+           <a href="http://www.mb.com.ph/poe-to-remove-heads-of-dotc-bir-da-if-elected-president/" rel="bookmark" title="Permalink to Poe to remove heads of DOTC, BIR, DA if elected president">
+            Read More
+           </a>
+          </span>
+         </p>
+         <!--<h2 class="entry_title x_x">
+			<a href="http://www.mb.com.ph/poe-to-remove-heads-of-dotc-bir-da-if-elected-president/" rel="bookmark" title="Permalink to Poe to remove heads of DOTC, BIR, DA if elected president" >Poe to remove heads of DOTC, BIR, DA if elected president</a><a class="view-all" href="http://www.mb.com.ph/poe-to-remove-heads-of-dotc-bir-da-if-elected-president/">More</a>
+		</h2>-->
+         <a href="http://www.mb.com.ph/poe-to-remove-heads-of-dotc-bir-da-if-elected-president/" rel="bookmark">
+          <div class="post_img_holder" style="background:url(http://www.mb.com.ph/wp-content/uploads/2016/03/grace-poe-alchetron.jpg); background-size:cover; -moz-background-size:cover; -webkit-background-size:cover; background-position:center;">
+          </div>
+         </a>
+         Independent presidential aspirant Senator Grace Poe would remove the heads of at least three departments—the Department of Communications and Transportation (DOTC), the Bureau of Internal Revenue (BIR) and the Department of Agriculture (DA), should she get elected president in the upcoming elections in May.
+
+Speaking at 2016 Presidential Dialogue hosted by the Makati Business Club (MBC) and the Management Association of the Philippines (MAP), Poe said she is keen on eliminating some members of President Benigno Aquino III's Cabinet and that includes the heads of the DOTC, BIR and the DA "to name a few."
+
+DOTC is being headed by Secretary Joseph Emilio Abaya, whom she had earlier called on to resign from his position for his incompetence and failure to address Metro Manila's traffic woes, particularly the problems hounding the Metro …
+         <p class="readMoreHolder">
+          <a class="view-all test" href="http://www.mb.com.ph/poe-to-remove-heads-of-dotc-bir-da-if-elected-president/">
+           Read More
+          </a>
+         </p>
+        </div>
+        <!--<div id="postssss-" >-->
+        <div class="post-400443 post type-post status-publish format-standard hentry category-latest_news category-national tag-amlc tag-casino tag-manila-bulletin tag-money-laundering tag-news-today tag-ralph-recto tag-rcbc tag-senate tag-william-go entry loop-default" id="post-400443">
+         <p class="catname testCSS">
+          <!--pol 03 03 2014 category listing -->
+          <!--<a class="view-all" href="">More </a>-->
+          <!--<a class="view-all" href="">See Full</a>-->
+          <a href="http://www.mb.com.ph/recto-says-govt-must-get-money-laundering-answers/">
+           Recto says gov’t must get ‘money laundering’ answers
+          </a>
+         </p>
+         <p class="postmeta">
+          <span class="meta_date">
+           March 16, 2016
+          </span>
+          <span class="meta_comment">
+           <a href="http://www.mb.com.ph/recto-says-govt-must-get-money-laundering-answers/#respond" title="Comment on Recto says gov’t must get ‘money laundering’ answers">
+            <span class="dsq-postid" rel="400443 http://www.mb.com.ph/?p=400443">
+             No Comment
+            </span>
+           </a>
+          </span>
+          <span class="meta_permalink">
+           <a href="http://www.mb.com.ph/recto-says-govt-must-get-money-laundering-answers/" rel="bookmark" title="Permalink to Recto says gov’t must get ‘money laundering’ answers">
+            Read More
+           </a>
+          </span>
+         </p>
+         <!--<h2 class="entry_title x_x">
+			<a href="http://www.mb.com.ph/recto-says-govt-must-get-money-laundering-answers/" rel="bookmark" title="Permalink to Recto says gov&#8217;t must get &#8216;money laundering&#8217; answers" >Recto says gov&#8217;t must get &#8216;money laundering&#8217; answers</a><a class="view-all" href="http://www.mb.com.ph/recto-says-govt-must-get-money-laundering-answers/">More</a>
+		</h2>-->
+         <a href="http://www.mb.com.ph/recto-says-govt-must-get-money-laundering-answers/" rel="bookmark">
+          <div class="post_img_holder" style="background:url(http://www.mb.com.ph/wp-content/uploads/2015/02/RECTO.jpg); background-size:cover; -moz-background-size:cover; -webkit-background-size:cover; background-position:center;">
+          </div>
+         </a>
+         The government must get answers from a plate of questions and plug loopholes in money laundering or else international hackers may still consider the Philippines as a playground for cyber crimes, Senate President Ralph G. Recto said.
+
+Recto, an economist, issued this warning after taking part in last Tuesday’s  five-hour public hearing by the Senate Blue Ribbon committee chaired by Sen. Teofisto Guingona III on the ability of hackers to send $81 million from the Bangladesh central bank to a Philippine bank, Rizal Commercial Banking Corporation (RCBC).
+
+From the RCBC, the money in the name of a businessman, William So Go, was later placed in the account of four fictitious persons and eventually found their way to casinos and unidentified hands. The possibility of tracing the $81 million or P3.7 billion is ‘’doubtful,’’ Guingona said.
+
+Both …
+         <p class="readMoreHolder">
+          <a class="view-all test" href="http://www.mb.com.ph/recto-says-govt-must-get-money-laundering-answers/">
+           Read More
+          </a>
+         </p>
+        </div>
+        <div class="numbered-pagination">
+         <span>
+          Page 1 of 1783
+         </span>
+         <span class="current">
+          1
+         </span>
+         <a class="inactive" href="http://www.mb.com.ph/category/news/national/page/2/">
+          2
+         </a>
+         <a class="inactive" href="http://www.mb.com.ph/category/news/national/page/3/">
+          3
+         </a>
+         <a class="pagi-next" href="http://www.mb.com.ph/category/news/national/page/2/">
+          Next ›
+         </a>
+         <a class="pagi-last" href="http://www.mb.com.ph/category/news/national/page/1783/">
+          Last »
+         </a>
+         <div class="clear">
+         </div>
+        </div>
+       </div>
+       <!-- #content -->
+       <div id="sidebar">
+        <div class="sidebarinner">
+         <div class="widget">
+          <div class="sam-container sam-place" data-sam="1" id="c4034_275_51">
+           <a href="http://www.nationalbookstore.com.ph/" target="_blank">
+            <img alt="" src="http://www.mb.com.ph/wp-content/uploads/2016/01/Button-Ad-300x250px.jpeg"/>
+           </a>
+          </div>
+          <div class="sam-container sam-place" data-sam="1" id="c7104_204_52">
+           <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js">
+           </script>
+           <!-- MB mobile leaderboard - b 300x250 -->
+           <ins class="adsbygoogle" data-ad-client="ca-pub-1879001956026775" data-ad-slot="6248580995" style="display:inline-block;width:300px;height:250px">
+           </ins>
+           <script>
+            (adsbygoogle = window.adsbygoogle || []).push({});
+           </script>
+          </div>
+         </div>
+         <div class="widget">
+          <div class="sam-container sam-place" data-sam="1" id="c7862_205_53">
+           <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js">
+           </script>
+           <!-- MB mobile leaderboard - c 300x250 -->
+           <ins class="adsbygoogle" data-ad-client="ca-pub-1879001956026775" data-ad-slot="9202047397" style="display:inline-block;width:300px;height:250px">
+           </ins>
+           <script>
+            (adsbygoogle = window.adsbygoogle || []).push({});
+           </script>
+          </div>
+          <div class="sam-container sam-place" data-sam="1" id="c9447_206_54">
+           <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js">
+           </script>
+           <!-- MB mobile leaderboard - d 300x250 -->
+           <ins class="adsbygoogle" data-ad-client="ca-pub-1879001956026775" data-ad-slot="4632246997" style="display:inline-block;width:300px;height:250px">
+           </ins>
+           <script>
+            (adsbygoogle = window.adsbygoogle || []).push({});
+           </script>
+          </div>
+          <div class="sam-container sam-place" data-sam="1" id="c5846_207_55">
+           <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js">
+           </script>
+           <!-- MB mobile leaderboard - e 300x250 -->
+           <ins class="adsbygoogle" data-ad-client="ca-pub-1879001956026775" data-ad-slot="8682058591" style="display:inline-block;width:300px;height:250px">
+           </ins>
+           <script>
+            (adsbygoogle = window.adsbygoogle || []).push({});
+           </script>
+          </div>
+          <div class="sam-container sam-place" data-sam="1" id="c9761_208_56">
+           <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js">
+           </script>
+           <!-- MB mobile leaderboard - f 300x250 -->
+           <ins class="adsbygoogle" data-ad-client="ca-pub-1879001956026775" data-ad-slot="1158791791" style="display:inline-block;width:300px;height:250px">
+           </ins>
+           <script>
+            (adsbygoogle = window.adsbygoogle || []).push({});
+           </script>
+          </div>
+          <div class="sam-container sam-place" data-sam="1" id="c2359_209_57">
+           <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js">
+           </script>
+           <!-- MB mobile leaderboard - g 300x250 -->
+           <ins class="adsbygoogle" data-ad-client="ca-pub-1879001956026775" data-ad-slot="2635524990" style="display:inline-block;width:300px;height:250px">
+           </ins>
+           <script>
+            (adsbygoogle = window.adsbygoogle || []).push({});
+           </script>
+          </div>
+          <div class="sam-container sam-place" data-sam="1" id="c4400_211_58">
+           <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js">
+           </script>
+           <!-- MB mobile leaderboard - h 300x250 -->
+           <ins class="adsbygoogle" data-ad-client="ca-pub-1879001956026775" data-ad-slot="4112258191" style="display:inline-block;width:300px;height:250px">
+           </ins>
+           <script>
+            (adsbygoogle = window.adsbygoogle || []).push({});
+           </script>
+          </div>
+         </div>
+        </div>
+        <!-- .sidebarinner -->
+       </div>
+       <!-- #Sidebar -->
+       <div class="clear">
+       </div>
+      </div>
+      <!-- #Container -->
+      <!--footer-ads-bottom-paul-->
+      <div id="footer_ads_holder">
+       <div id="footer_ads_top">
+        <div class="widget widget_text" id="text-33">
+         <div class="widgetinner">
+          <div class="textwidget">
+           <div class="sam-container sam-place" data-sam="1" id="c9110_197_59">
+            <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js">
+            </script>
+            <!-- MB leaderboard - footer 728x90 -->
+            <ins class="adsbygoogle" data-ad-client="ca-pub-1879001956026775" data-ad-slot="5030588191" style="display:inline-block;width:728px;height:90px">
+            </ins>
+            <script>
+             (adsbygoogle = window.adsbygoogle || []).push({});
+            </script>
+           </div>
+           <div class="sam-container sam-place" data-sam="1" id="c8484_190_60">
+            <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js">
+            </script>
+            <!-- MB customized - footer 200x90 -->
+            <ins class="adsbygoogle" data-ad-client="ca-pub-1879001956026775" data-ad-slot="6507321392" style="display:inline-block;width:200px;height:90px">
+            </ins>
+            <script>
+             (adsbygoogle = window.adsbygoogle || []).push({});
+            </script>
+           </div>
+          </div>
+         </div>
+        </div>
+       </div>
+      </div>
+      <!--end-footer-ads-bottom-paul-->
+     </div>
+     <!-- end of wrapper_sun -->
+    </div>
+    <!--inner-pages-->
+    <div id="footer">
+     <div class="footerWrapper">
+      <div id="foo_widget1">
+      </div>
+      <div id="foo_widget2">
+      </div>
+      <div id="foo_widget3">
+       <div class="widget widget_text" id="text-42">
+        <div class="widgetinner">
+         <div class="textwidget">
+          <div data-crowdynews-widget="ManilaBulletin/manila-bulletin-inline-new" style="float:left; width: 300px; height: 250px;margin:0 15px 0 5px;">
+           <script async="true" src="//widget.crowdynews.com/js/widget.js">
+           </script>
+          </div>
+          <div class="footer_ribbon">
+           <div class="sam-container sam-place" data-sam="1" id="c9226_99_47">
+            <a class="sam_ad" href="http://www.mb.com.ph/category/lifestyle/picture-perfect/" id="a27_99" target="_blank">
+             <img alt="" src="http://www.mb.com.ph/wp-content/uploads/2014/01/picture_perfect-320x50.jpg"/>
+            </a>
+           </div>
+           <div class="sam-container sam-place" data-sam="1" id="c5605_100_48">
+            <a href="http://mbclassifiedjobs.com/" target="_blank">
+             <img alt="" src="http://www.mb.com.ph/wp-content/uploads/2015/03/320-x-50-mbclassified-banner.jpg"/>
+            </a>
+           </div>
+           <div class="sam-container sam-place" data-sam="1" id="c2135_101_49">
+            <a href="http://www.tempo.com.ph/" target="_blank">
+             <img alt="tempo " src="http://www.mb.com.ph/wp-content/uploads/2014/01/tempo-320x50-copy.jpg"/>
+            </a>
+           </div>
+           <div class="sam-container sam-place" data-sam="1" id="c3476_102_50">
+            <a href="http://www.balita.net.ph/" target="_blank">
+             <img alt="" src="http://www.mb.com.ph/wp-content/uploads/2014/01/balita-320x50-copy.jpg"/>
+            </a>
+           </div>
+          </div>
+         </div>
+        </div>
+       </div>
+      </div>
+      <div id="foo_widget4">
+      </div>
+     </div>
+    </div>
+    <div id="footer_data">
+     <div class="footerWrapper">
+      <ul class="footerpages">
+       <li class="first">
+        <a href="http://www.mb.com.ph/" title="">
+         Home
+        </a>
+       </li>
+       <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-16584" id="menu-item-16584">
+        <a href="http://www.mb.com.ph/news/">
+         News
+        </a>
+       </li>
+       <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-16581" id="menu-item-16581">
+        <a href="http://www.mb.com.ph/business/">
+         Business
+        </a>
+       </li>
+       <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-16586" id="menu-item-16586">
+        <a href="http://www.mb.com.ph/sports/">
+         Sports
+        </a>
+       </li>
+       <li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-16580" id="menu-item-16580">
+        <a href="http://www.mb.com.ph/category/entertainment/">
+         Entertainment
+        </a>
+       </li>
+       <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-16583" id="menu-item-16583">
+        <a href="http://www.mb.com.ph/lifestyle/">
+         Lifestyle
+        </a>
+       </li>
+       <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-16587" id="menu-item-16587">
+        <a href="http://www.mb.com.ph/technews/">
+         Tech
+        </a>
+       </li>
+       <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-16585" id="menu-item-16585">
+        <a href="http://www.mb.com.ph/others/">
+         Others
+        </a>
+       </li>
+       <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-333370" id="menu-item-333370">
+        <a href="http://www.mb.com.ph/our-history/">
+         About MB
+        </a>
+       </li>
+       <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-18267" id="menu-item-18267">
+        <a href="http://www.mb.com.ph/contact-us/">
+         Contact MB
+        </a>
+       </li>
+       <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-18268" id="menu-item-18268">
+        <a href="http://www.mb.com.ph/subscription/">
+         Subscribe
+        </a>
+       </li>
+       <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-36368" id="menu-item-36368">
+        <a href="http://www.mb.com.ph/advertise/">
+         Advertise
+        </a>
+       </li>
+       <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-333368" id="menu-item-333368">
+        <a href="http://www.mb.com.ph/privacy-policy/">
+         Privacy Policy
+        </a>
+       </li>
+       <li>
+        <a href="http://www.mb.com.ph/feed/" rel="nofollow">
+         RSS
+        </a>
+       </li>
+       <!--<li class="right"><a href="#top" title="mb.com.ph | Philippine News" rel="home"><strong>&uarr;</strong> mb.com.ph | Philippine News</a></li>-->
+      </ul>
+      <div class="clear">
+      </div>
+      <p id="footer-left-side">
+       Copyright © 2016
+       <a href="http://www.mb.com.ph/" rel="home" title="mb.com.ph | Philippine News">
+        mb.com.ph | Philippine News
+       </a>
+       . All rights reserved
+      </p>
+      <!-- #site-info -->
+      <p id="footer-right-side">
+       <!--<a href="http://www.mb.com.ph/wp-admin/edit.php">Posts</a> - 
+				<a href="http://www.mb.com.ph/wp-admin/post-new.php">Add New</a>-->
+       <!-- - -->
+       <a class="right" href="#top" rel="home" title="mb.com.ph | Philippine News">
+        <strong>
+         ↑
+        </strong>
+        Top
+       </a>
+       <!--<a href="http://wordpress.org/" title="Semantic Personal Publishing Platform" rel="generator">Powered by WordPress</a> - 
+		Designed by <a href="http://www.gabfirethemes.com/" title="Premium WordPress Themes">Gabfire Themes</a>-->
+       <script type="text/javascript">
+        // &lt;![CDATA[
+        var disqus_shortname = 'manilabulletindotcomdotph';
+        (function () {
+            var nodes = document.getElementsByTagName('span');
+            for (var i = 0, url; i &lt; nodes.length; i++) {
+                if (nodes[i].className.indexOf('dsq-postid') != -1) {
+                    nodes[i].parentNode.setAttribute('data-disqus-identifier', nodes[i].getAttribute('rel'));
+                    url = nodes[i].parentNode.href.split('#', 1);
+                    if (url.length == 1) url = url[0];
+                    else url = url[1]
+                    nodes[i].parentNode.href = url + '#disqus_thread';
+                }
+            }
+            var s = document.createElement('script'); s.async = true;
+            s.type = 'text/javascript';
+            s.src = '//' + 'disqus.com/forums/' + disqus_shortname + '/count.js';
+            (document.getElementsByTagName('HEAD')[0] || document.getElementsByTagName('BODY')[0]).appendChild(s);
+        }());
+    //]]&gt;
+       </script>
+       <!--Plugin WP Missed Schedule 2013.1024.8888 Active - Tag 6d807758f47abdb4ae626b9fa261d2f5-->
+       <div id="fb-root">
+       </div>
+       <script type="text/javascript">
+        &lt;!--
+	(function(d, s, id) {
+	  var js, fjs = d.getElementsByTagName(s)[0];
+	  if (d.getElementById(id)) return;
+	  js = d.createElement(s); js.id = id;
+	  js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+	  fjs.parentNode.insertBefore(js, fjs);
+	}(document, 'script', 'facebook-jssdk'));
+	// --&gt;
+       </script>
+       <script src="http://www.mb.com.ph/wp-content/plugins/contact-form-7/includes/js/jquery.form.min.js?ver=3.44.0-2013.09.15" type="text/javascript">
+       </script>
+       <script type="text/javascript">
+        /* &lt;![CDATA[ */
+var _wpcf7 = {"loaderUrl":"http:\/\/www.mb.com.ph\/wp-content\/plugins\/contact-form-7\/images\/ajax-loader.gif","sending":"Sending ...","cached":"1"};
+/* ]]&gt; */
+       </script>
+       <script src="http://www.mb.com.ph/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=3.5.3" type="text/javascript">
+       </script>
+      </p>
+      <!-- #footer-right-side -->
+     </div>
+     <!--wrapper-->
+    </div>
+    <!-- /footer_data -->
+   </div>
+   <!--shadow-->
+  </div>
+  <!--background-->
+  <!--
+<div class="bottom" id="bottom" >
+	<div class="inner-bottom">
+		<div style="background: url('http://www.mb.com.ph/wp-content/uploads/2015/06/liner-warning.png') no-repeat center; width: 100%; height: 22px;">
+		</div>
+	</div>
+	<div class="wrapper">
+		<div class="wrapper" id="trigger-click-ads">
+			<div id="source-content-getter">
+							</div>
+		</div>
+		<span class="close-slide"></span>
+	</div><
+</div> -->
+  <!-- <div id="source-content-holder">
+	<div class="source-content-setter" id="source-content-setter" style="display:none;">
+		<div class="ads-image-container">
+			 -->
+  <!-- <div style="width:950px; height:90px;"></div>
+			<img id="imanila-logo-ads" src="http://www.mb.com.ph/wp-content/uploads/2015/05/imanila-logo-ads.png" alt="iManila">
+			<img id="imanila-emblem" src="http://www.mb.com.ph/wp-content/uploads/2015/05/imanila-emblem.png" alt="iManila"> -->
+  <!-- 		</div>
+	</div>
+</div> 
+
+<div id="popup_box">
+	<div class="wrapper">
+		<div>
+					</div>
+	</div>
+	<div class="popup_box_close_container">
+		<div>
+			<a id="popupBoxClose"><img src="http://www.mb.com.ph/wp-content/uploads/2015/08/close_big-150x150-black.png" alt="close"><span>Close Slider</span></a>
+		</div>
+	</div>
+</div> -->
+  <style type="text/css">
+   /* Ads Start */
+
+.bottom{   
+		z-index: 9999; 
+		text-align: center;
+		height:50px;
+		width:100%;
+		overflow:hidden;
+		position:fixed;
+		bottom: -200px;
+		padding: 0px;
+		height: 90px;
+		/* background: #efefef url('http://www.mb.com.ph/wp-content/uploads/2015/05/About-Us-Services.jpg') repeat center top; color:#fff; */
+		color:#fff;
+
+
+		background: #000; /* Old browsers */
+
+		-webkit-box-shadow: 0px 0px 30px -5px rgba(0,0,0,0.75);
+		-moz-box-shadow: 0px 0px 30px -5px rgba(0,0,0,0.75);
+		box-shadow: 0px 0px 30px -5px rgba(0,0,0,0.75);
+
+	}
+	.bottom .inner-bottom { display: none;  background: #fff url('http://www.mb.com.ph/wp-content/uploads/2015/06/liner.png') repeat-x;  height: 19px;  position: absolute;  width: 100%;  border-bottom: 3px solid #A3A3A3;}
+	.bottom .wrapper { background: none; width: 1024px; } 
+	/*.bottom .wrapper #source-content-getter { background: url('http://mb.com.ph/wp-content/uploads/2015/ads/hyc_long.jpg') no-repeat center top; }*/
+	.bottom .wrapper #source-content-getter { background: url('http://www.mb.com.ph/wp-content/uploads/2015/08/converse-slider.jpg') no-repeat center top; height: 90px; }
+	.ads-image-container { width: 1028px; margin: 0 auto; } 
+	.ads-image-container:hover { cursor: pointer; }
+	.img{position:absolute;width:460px;bottom:0px;}
+	#source-content-getter p { color: #fff; } 
+	.close-slide { 
+	    background: url('http://www.mb.com.ph/wp-content/uploads/2015/05/alertbox-closeicon-2x-1.png') no-repeat;
+		position: relative;
+		top: -76px;
+		right: -477px;
+		padding: 15px;
+	    cursor: pointer;
+	    background-size: 50%;
+	}
+	#imanila-logo-ads { width: 244px;float: left; }
+	#imanila-emblem {
+	    width: 600px;
+	    position: relative;
+	    top: 8px;
+	}
+
+	#popup_box { 
+	  /*display: none;*/
+	  position: absolute;
+	  width: 100%;
+	  /*background: #070507;*/
+	  background: rgba(0,0,0,0.5);
+	  background-size: cover;
+	  z-index: 9999;
+	  margin-left: 0;
+	  font-size: 15px;
+	  top: 0px;
+	  min-height: 6455px;
+	}
+	#popup_box .wrapper {
+	    margin: auto;
+	    top: 50px;
+	    left: 0;
+	    right: 0;
+	    /*bottom: 0;*/
+	    position: absolute;
+	    height: 768px;
+	    padding: 0;
+	  border: 0;
+	  background-color: transparent;
+	}
+	#popup_box .slides {  height: 465px !important; }
+	.popup_box_close_container { position: absolute;  top: 56px;  width: 100%; background: transparent; /* Old browsers */ }
+	.popup_box_close_container div { background: transparent; width: 1024px;  margin: 0 auto;  padding: 17.5px 0;  text-align: right;} 
+	#popupBoxClose {  margin-left: 12px;right: 32px;   position: relative;    background: #8F98FF; display: inline-table; padding: 1px 23px 1px 15px; }
+	#popupBoxClose img { width: 50px; cursor: pointer;  }
+	#popupBoxClose span {  position: relative;  top: -19px;  font-size: 18px;  left: 7px;color: #fff; cursor: pointer; font-weight: 700; }
+	#popupBoxClose:hover { text-decoration: none; }
+	#popup_box .wk-slideshow .slides li img { width: 100%; margin: 0; }
+	#popup_box .caption {  background: none;  padding: 0;}
+	#popup_box .caption a div {  width: 100%;  height: 30px;}
+	#popup_box .caption a.know-more div {  position: absolute;  top: -232px;  left: 266px;  width: 250px;  height: 45px;}
+	.hyc-bg-container { height: 465px; }
+
+
+	#bottom .sam-container .sam_ad { display: block !important; }
+	#bottom .sam-container, #bottom .sam-container img { width: 100%; height: 90px; }
+
+	.tohoku-bg { background: url('http://mb.com.ph/wp-content/themes/city-desk/images/tohoko-bg.jpg') no-repeat center center; background-size: 100%; }
+	.lower-content { font-family: Arial;    padding: 20px 22px;}
+	.upper-content { font-family: Arial; height: 428px; position: relative; }
+	.lower-content, .lower-content h3 { color: #fff; text-align: center; }
+	.polaroid-box { background: #fff; font-size: 12px; text-align: center;    padding: 5px;position: absolute; }
+	.polaroid-box p { margin-top: 0;  line-height: 1.315; color: #000; padding: 5px 5px 0;}
+	.left-panel { width: 227px; height: 227px; top: 202px; left: 38px; }
+	.right-panel { width: 199px;height: 257px;  top: 80px; right: 25px; }
+	.right-panel p { font-size: 11px; }
+	.cherry { color: #fff; background: url('http://mb.com.ph/wp-content/themes/city-desk/images/bg-text.png'); display: inline-block;    padding: 3.5px 23px; display: inline-block; position: absolute; bottom: 17px; right: 0; font-size: 12px; padding: 3.5px 0px;}
+	.font-size-15 { font-size: 15px; }
+	.font-size-20 { font-size: 20px; padding: 0 37px; margin: 26px 0; line-height: 1.215; }
+	.font-size-30 { font-size: 30px;    line-height: 1.215; font-weight: 700; margin-top: 0; }
+
+/* Ads End */
+  </style>
+  <!-- /*========= MORE ADS START =========*/ -->
+  <script type="text/javascript">
+   // MORE ADS START
+// Siderbar floater
+
+			// Floater Right AD
+			// $(".arrow-right-close").click(function () {
+			// 	$("#right-sticky-ads").css("right", "-251px");
+			// }, function(){
+			// 	$("#right-sticky-ads").css("right", "0");
+			// });
+
+			$(".arrow-right-close").click(function () {
+				var e = document.getElementById('right-sticky-ads');
+				if(e.style.right == '-209px') {
+					$('.arrow-right-close').removeClass('rotate-180');
+					e.style.right = '0';
+				} else {
+					e.style.right = '-209px';
+					$('.arrow-right-close').addClass('rotate-180');
+				}
+			});
+
+			$("#top-right-sticky-ads .arrow-right-close").click(function () {
+				var e = document.getElementById('top-right-sticky-ads');
+				if(e.style.right == '-209px') {
+					$('#top-right-sticky-ads .arrow-right-close').removeClass('rotate-180');
+					e.style.right = '0';
+				} else {
+					e.style.right = '-209px';
+					$('#top-right-sticky-ads .arrow-right-close').addClass('rotate-180');
+				}
+			});
+
+
+			$(function(){
+				// When site loaded, load the Popupbox First
+		        loadPopupBox();
+		    
+		        $('#center_popupBoxClose').click( function() {            
+		            unloadPopupBox();
+		        });
+		        
+		        $('#container').click( function() {
+		            unloadPopupBox();
+		        });
+
+		        function unloadPopupBox() {    // TO Unload the Popupbox
+		            $('#center_popup_box').fadeOut("slow");
+		            // $("body").css({ // this is just for style        
+		            //     "opacity": "1"  
+		            // }); 
+		        }    
+		        
+		        function loadPopupBox() {    // To Load the Popupbox
+		            $('#center_popup_box').fadeIn("slow");
+		            // $("body").css({ // this is just for style
+		            //     "opacity": "0.3"  
+		            // });         
+		        }   
+			});
+			// /*float-top-right-ad*/
+		        $(function(){
+		            $( "#close-custom-ads-top-right" ).click(function() {
+		              $("#top-right-sticky-ads").hide();
+		            });
+		        });
+			// /*float-left-ad*/
+		        $(function(){
+		            $( "#close-custom-ads-bottom-left" ).click(function() {
+		              $("#float-left-ads-container").hide();
+		            });
+		        });
+			// /*float-left-ad*/
+			// /*float-bottom-right-ad*/
+		        $(function(){
+		            $( "#close-custom-ads-bottom-right" ).click(function() {
+		              $("#float-right-ads-container").hide();
+		            });
+		        });
+			// /*float-bottom-right-ad*/
+
+			// Siderbar floater
+			$(function(){
+					/*&lt;![CDATA[*/
+				var persistclose=0
+				var startX=0
+				var startY=0
+				var verticalpos="fromtop"
+				function iecompattest(){return(document.compatMode&amp;&amp;document.compatMode!="BackCompat")?document.documentElement:document.body}
+				function get_cookie(Name){var search=Name+"="
+				var returnvalue="";if(document.cookie.length&gt;0){offset=document.cookie.indexOf(search)
+				if(offset!=-1){offset+=search.length
+				end=document.cookie.indexOf(";",offset);if(end==-1)end=document.cookie.length;returnvalue=unescape(document.cookie.substring(offset,end))}}
+				return returnvalue;}
+				function closebar(){if(persistclose)
+				document.cookie="remainclosed=1"
+				document.getElementById("topbar").style.visibility="hidden"}
+				function staticbar(){barheight=document.getElementById("sidebar-floater-ads").offsetHeight
+				var ns=(navigator.appName.indexOf("Netscape")!=-1)||window.opera;var d=document;function ml(id){var el=d.getElementById(id);if(!persistclose||persistclose&amp;&amp;get_cookie("remainclosed")=="")
+				el.style.visibility="visible"
+				if(d.layers)el.style=el;el.sP=function(x,y){this.style.left=x+"px";this.style.top=y+"px";};el.x=startX;if(verticalpos=="fromtop")
+				el.y=startY;else{el.y=ns?pageYOffset+innerHeight:iecompattest().scrollTop+iecompattest().clientHeight;el.y-=startY;}
+				return el;}
+				window.stayTopLeft=function(){if(verticalpos=="fromtop"){var pY=ns?pageYOffset:iecompattest().scrollTop;ftlObj.y+=(pY+startY-ftlObj.y)/8;}
+				else{var pY=ns?pageYOffset+innerHeight-barheight:iecompattest().scrollTop+iecompattest().clientHeight-barheight;ftlObj.y+=(pY-startY-ftlObj.y)/8;}
+				ftlObj.sP(ftlObj.x,ftlObj.y);setTimeout("stayTopLeft()",10);}
+				ftlObj=ml("sidebar-floater-ads");stayTopLeft();}
+				if(window.addEventListener)
+				window.addEventListener("load",staticbar,false)
+				else if(window.attachEvent)
+				window.attachEvent("onload",staticbar)
+				else if(document.getElementById)
+				window.onload=staticbar/*]]&gt;*/
+			})
+			
+
+
+		// MORE ADS END
+  </script>
+  <!-- /*========= MORE ADS END =========*/ -->
+  <script type="text/javascript">
+   $(function(){
+		
+			// When site loaded, load the Popupbox First
+			// $( "#trigger-click-ads" ).click(function() {
+			$( "#source-content-getter .sam-container a" ).removeAttr('target');
+			// $( "#trigger-click-ads" ).click(function() {
+				loadPopupBox();
+				$('#popupBoxClose').click( function() {
+					unloadPopupBox();
+				});
+				
+
+				function unloadPopupBox() {	// TO Unload the Popupbox
+					$('#popup_box').fadeOut("slow");
+					// $("#container").css({ // this is just for style		
+					// "opacity": "1"
+					// 
+				}
+				
+				function loadPopupBox() {	// To Load the Popupbox
+					$('#popup_box').fadeIn("slow");
+					// $("#container").css({ // this is just for style
+					// "opacity": "0.3"
+					// });
+				}
+			// });
+		
+			/**********************************************************/
+		});	
+        $(function(){
+            $('.bottom').animate({bottom: "0"} ,2000);
+        });
+        
+
+        $(function(){
+            $( ".close-slide" ).click(function() {
+              $("#bottom").hide();
+            });
+        });
+
+        $(function(){
+            $( ".top-right-close" ).click(function() {
+              $("#bottom").hide();
+            });
+        });
+
+
+        $(function(){
+		var MyDiv1 = document.getElementById('source-content-setter');
+        var MyDiv2 = document.getElementById('source-content-getter');
+        MyDiv2.innerHTML = MyDiv1.innerHTML;
+
+        var theDiv = document.getElementById("page");
+        var content = document.getElementById("bottom");
+        theDiv.appendChild(content);
+        });
+  </script>
+  <script type="text/javascript">
+   setTimeout(function(){var a=document.createElement("script");
+var b=document.getElementsByTagName("script")[0];
+a.src=document.location.protocol+"//dnn506yrbagrg.cloudfront.net/pages/scripts/0020/4988.js?"+Math.floor(new Date().getTime()/3600000);
+a.async=true;a.type="text/javascript";b.parentNode.insertBefore(a,b)}, 1);
+  </script>
+ </body>
+</html>
+<!-- Dynamic page generated in 2.066 seconds. -->
+<!-- Cached page generated by WP-Super-Cache on 2016-03-16 21:49:45 -->
